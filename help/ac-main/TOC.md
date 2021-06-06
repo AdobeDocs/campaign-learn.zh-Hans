@@ -5,10 +5,10 @@ user-guide-title: Adobe CampaignTutorials
 user-guide-description: Adobe Campaign允许营销人员设计跨客户体验，并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 39%
+source-wordcount: '300'
+ht-degree: 40%
 
 ---
 
@@ -60,8 +60,8 @@ ht-degree: 39%
       + [设置投放模板属性](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [部署临时电子邮件投放模板](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + 疲劳管理{#fatigue-management}
-      + [使用分类规则](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-      + [使用预定义过滤器](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
+      + [分类规则](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+      + [预定义过滤器](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [配置和管理订阅服务](/help/send-messages/configure-and-manage-subscription-services.md)
 + 流程管理和自动化{#process-management}
    + [创建工作流](/help/process-management/create-a-workflow.md)
