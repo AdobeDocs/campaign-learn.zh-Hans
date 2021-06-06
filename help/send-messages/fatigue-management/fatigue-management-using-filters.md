@@ -1,5 +1,5 @@
 ---
-title: 使用压力规则管理营销疲劳度
+title: 使用预定义过滤器管理疲劳
 description: 了解如何使用过滤器在Adobe Campaign中实施疲劳管理。
 feature: 疲劳管理
 kt: 7958
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Business Practitioner, Developer, Administrator
 level: Experienced
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '64'
 ht-degree: 10%
 
 ---
 
 
-# 使用预定义过滤器设置疲劳管理
+# 使用预定义过滤器管理疲劳
 
 疲劳管理控制报文传送的频率和数量，以避免收件人过度请求。
 了解如何使用过滤器在Adobe Campaign中实施疲劳管理。
