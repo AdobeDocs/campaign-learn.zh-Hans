@@ -6,10 +6,10 @@ feature: 概述
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: bdf29c4f660743d0f5d76a3df5425eeff86acd8e
+source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 20%
+source-wordcount: '293'
+ht-degree: 18%
 
 ---
 
@@ -69,6 +69,22 @@ Adobe Campaign提供了跨渠道客户体验设计平台，并提供了可视活
     <p>
   </td>
 </tr>
+<tr>
+</td>
+  <td>
+    <a href="./reporting/generate-a-descriptive-analysis-report.md">
+      <img alt="生成描述性分析报告" src="./assets/333994.jpg" />
+    </a>
+    <div>
+      <a href="./reporting/generate-a-descriptive-analysis-report.md">
+    <strong>生成描述性分析报告</strong>
+    </a>
+    </div>
+    <p>
+    <em>了解如何从工作流生成[!UICONTROL描述性分析报告]。</em>
+    <p>
+  </td>
+
 </table>
 
 ## 其他资源
