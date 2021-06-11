@@ -1,6 +1,6 @@
 ---
 title: 生成描述性分析报告
-description: 了解如何从Adobe Campaign V8中的工作流生成描述性分析报告。
+description: 了解如何根据 Adobe Campaign V8 中的工作流生成描述性分析报告。
 feature: 报告
 kt: 7841
 thumbnail: 333994.jpg
@@ -11,8 +11,8 @@ role: Business Practitioner
 level: Beginner
 source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
