@@ -10,15 +10,15 @@ team: TM
 role: Administrator
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # 部署临时电子邮件投放模板{#deploying-delivery-templates}
 
-此视频介绍如何部署临时电子邮件投放模板，并说明电子邮件投放与投放工作流之间的区别。
+此视频介绍了如何部署临时电子邮件投放模板，并说明了电子邮件投放与投放工作流之间的区别。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
