@@ -1,6 +1,6 @@
 ---
 title: 设计可投放的电子邮件
-description: 了解如何将投放能力最佳实践应用于电子邮件投放。
+description: 了解如何将可投放性最佳实践应用于您的电子邮件投放。
 feature: 电子邮件、可投放性
 kt: 7849
 thumbnail: 333471.jpg
@@ -9,16 +9,16 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 
 # 设计可投放的电子邮件
 
-了解如何将投放能力最佳实践应用于电子邮件投放。
+了解如何将可投放性最佳实践应用于您的电子邮件投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12)
 
