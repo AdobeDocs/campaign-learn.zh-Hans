@@ -1,6 +1,6 @@
 ---
 title: 创建和管理用户档案
-description: 了解如何访问个人资料数据、对个人资料进行排序和筛选以及手动创建和管理个人资料。了解对一般数据保护条例 (GDPR) 和加州消费者隐私权法案 (CCPA) 的合规性。
+description: 了解如何访问用户档案数据、对用户档案进行排序和筛选以及手动创建和管理用户档案。了解对一般数据保护条例 (GDPR) 和加州消费者隐私权法案 (CCPA) 的合规性。
 feature: 用户档案
 kt: 7843
 thumbnail: 35611.jpg
@@ -10,7 +10,7 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
