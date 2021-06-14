@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign V8简介
-description: 了解Adobe Campaign如何融入Adobe数字体验产品组合，并了解主要特性和功能。
+title: Adobe Campaign V8 简介
+description: 了解 Adobe Campaign 如何与 Adobe 数字体验产品组合相融合，并了解 Adobe Campaign 的主要特性和功能。
 feature: 概述
 kt: 7822
 thumbnail: 35129.jpg
@@ -14,13 +14,13 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign V8简介
+# Adobe Campaign V8 简介
 
-了解Adobe Campaign如何融入Adobe数字体验产品组合，并了解主要特性和功能。
+了解 Adobe Campaign 如何与 Adobe 数字体验产品组合相融合，并了解 Adobe Campaign 的主要特性和功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12)
