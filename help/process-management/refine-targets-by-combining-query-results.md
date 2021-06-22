@@ -3,14 +3,14 @@ title: 通过组合查询结果优化目标
 description: 了解如何通过使用交叉或合并活动组合工作流中的查询结果来优化目标。
 feature: 工作流、定位活动、查询编辑器
 kt: 7844
-thumbnail: 36832.jpg
+thumbnail: 334235.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+source-git-commit: e57b1ed15044245c668395c7ebbba72094083be1
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 了解如何通过使用&#x200B;**[!UICONTROL 交叉]**&#x200B;或&#x200B;**[!UICONTROL 合并]**&#x200B;活动组合工作流中的查询结果来优化目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334235?quality=12)
 
 ## 其他资源
 
