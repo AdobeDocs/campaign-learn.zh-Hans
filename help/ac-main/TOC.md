@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 18b670cf4cd375dfaa741f91524783f4043ecfee
+source-git-commit: ca6dca8083f96432cbb8af6c6e332261cee6f746
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 95%
@@ -76,7 +76,7 @@ ht-degree: 95%
    + [导入用户档案](/help/data-management/import-profiles.md)
 + 与其他解决方案配合使用{#connect}
    + [Snowflake 的大数据管理](/help/connect/big-data-segmentation-on-snowflake.md)
-   + [数据复制](help/data-management/data-replication.md)
+   + [数据复制](/help/data-management/data-replication.md)
    + [与 Dynamics 365 集成](/help/connect/dynamics365-integration.md)
 + 报告{#reporting}
    + [访问内置报告](/help/reporting/access-built-in-reports.md)
