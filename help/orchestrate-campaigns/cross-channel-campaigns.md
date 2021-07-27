@@ -1,28 +1,26 @@
 ---
-title: 创建跨渠道营销活动
-description: 了解如何创建多渠道活动。
+title: 创建跨渠道活动
+description: 了解如何根据客户与首次投放的交互情况，使用电子邮件和直邮投放创建跨渠道营销活动。
 feature: 工作流
-kt: 7018
-thumbnail: 330990.jpg
+kt: 7798
+thumbnail: 335607.jpg
 doc-type: feature video
 activity: use
 team: TM
-hide: true
-hidefromtoc: true
-source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
+source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 16%
 
 ---
 
 # 创建跨渠道营销活动
 
-在跨渠道营销活动中，单个营销通信可利用多个渠道（根据收件人首选的渠道）接触到更广泛的目标受众。
+在跨渠道营销活动中，单个营销通信使用不同的渠道。 数据在渠道之间传递。 客户基于例如他们与先前通信的交互通过多个渠道接收通信。
 
-了解如何利用电子邮件、短信和直邮投放来创建跨渠道营销活动。
+了解如何根据客户与首次投放的交互情况，使用电子邮件和直邮投放创建跨渠道营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12)
 
 ## 其他资源
 
