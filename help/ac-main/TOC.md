@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ab58641e8805dd14b045ca497896f94e3b81647
+source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 95%
+source-wordcount: '296'
+ht-degree: 91%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 95%
 # Adobe Campaign V8 教程 {#tutorials}
 
 + [概述](/help/overview.md)
-+ 快速入门{#getting-started}
-   + [Adobe Campaign 简介](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [安装和设置Adobe Campaign客户端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [浏览 Adobe Campaign 用户界面](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-   + [管理营销活动](/help/getting-started/manage-marketing-campaigns.md)
-   + [创建营销计划、项目和活动](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
-   + [创建事件触发式活动](/help/getting-started/create-event-triggered-campaigns.md)
++ 入门{#getting-started}
+   + [Adobe Campaign 简介](/help/get-started/introduction-to-adobe-campaign.md)
+   + [安装和设置Adobe Campaign客户端](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [浏览 Adobe Campaign 用户界面](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [管理营销活动](/help/get-started/manage-marketing-campaigns.md)
+   + [创建营销计划、项目和活动](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
+   + [创建事件触发式活动](/help/get-started/create-event-triggered-campaigns.md)
 + 用户档案管理{#profile-management}
    + [创建和管理用户档案](/help/profile-management/create-and-manage-profiles.md)
    + [在工作流中定位用户档案](/help/profile-management/target-profiles-in-a-workflow.md)
@@ -66,11 +66,11 @@ ht-degree: 95%
    + [创建工作流](/help/process-management/create-a-workflow.md)
    + [创建循环投放和连续投放](/help/process-management/recurring-deliveries.md)
    + [创建定位工作流](/help/process-management/create-a-targeting-workflow.md)
-   + [使用更新列表活动通过工作流创建列表](/help/process-management/use-the-update-list-activity.md)
    + [通过组合查询结果优化目标](/help/process-management/refine-targets-by-combining-query-results.md)
    + [通过排除查询结果优化目标](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [创建验证工作流](/help/process-management/create-validation-workflows.md)
    + [管理批准](/help/process-management/manage-approvals.md)
+   + [使用更新列表活动](/help/process-management/use-the-update-list-activity.md)
    + [配置扩充活动](/help/process-management/enrichment-activity.md)
 + 数据管理{#data-management}
    + [导入用户档案](/help/data-management/import-profiles.md)
