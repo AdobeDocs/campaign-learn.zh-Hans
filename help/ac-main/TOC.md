@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
+source-git-commit: 39d79c9d853214b91e4f192fb01381473ec06ca0
 workflow-type: tm+mt
 source-wordcount: '296'
-ht-degree: 91%
+ht-degree: 93%
 
 ---
 
