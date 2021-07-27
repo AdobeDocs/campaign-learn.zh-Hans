@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 39d79c9d853214b91e4f192fb01381473ec06ca0
+source-git-commit: 0ca9bf3d2eb01fb00e769bd2edf217b904183203
 workflow-type: tm+mt
 source-wordcount: '296'
-ht-degree: 93%
+ht-degree: 91%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 93%
       + [设计可投放的电子邮件](/help/send-messages/email/design-emails-for-deliverability.md)
       + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
    + 短信{#sms}
-      + [创建短信投放](/help/send-messages/mobile/create-a-sms-delivery.md)
+      + [创建短信投放](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 推送{#push}
       + [安装移动应用程序渠道](/help/send-messages/mobile/install-the-mobile-app.md)
       + [使用 Experience Platform Mobile SDK 配置推送渠道](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
