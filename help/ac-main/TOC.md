@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 0ca9bf3d2eb01fb00e769bd2edf217b904183203
+source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 91%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 91%
 + [概述](/help/overview.md)
 + 入门{#getting-started}
    + [Adobe Campaign 简介](/help/get-started/introduction-to-adobe-campaign.md)
-   + [安装和设置Adobe Campaign客户端](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [安装和设置Adobe Campaign客户端控制台](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [浏览 Adobe Campaign 用户界面](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [管理营销活动](/help/get-started/manage-marketing-campaigns.md)
    + [创建营销计划、项目和活动](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
