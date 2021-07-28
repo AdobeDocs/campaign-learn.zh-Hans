@@ -1,27 +1,27 @@
 ---
 title: 通过排除查询结果优化目标
-description: 了解如何通过向工作流应用标准排除来优化目标。您还将了解如何创建预定义过滤器，以及如何对工作流进行故障诊断。
+description: 了解如何通过将标准排除应用于工作流来优化目标，如何创建预定义过滤器，以及如何对工作流进行故障诊断。
 feature: 工作流、定位活动、查询编辑器
 kt: 7845
-thumbnail: 36826.jpg
+thumbnail: 335609.jpg
 doc-type: feature video
 activity: use
-team: WWFRE
+team: TM
 role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 3ea823cd6d68b646e8d1e2b7d6ea672dc0bf2bf0
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 46%
 
 ---
 
 # 通过排除查询结果优化目标
 
-了解如何通过将&#x200B;**[!UICONTROL 标准排除]**&#x200B;应用于工作流来优化目标。您还将了解如何创建预定义过滤器，以及如何对工作流进行故障诊断。
+了解如何通过将&#x200B;**[!UICONTROL 标准排除]**&#x200B;应用于工作流来优化目标，如何创建预定义过滤器，以及如何对工作流进行故障诊断。
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
 
 ## 其他资源
 
