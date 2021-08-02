@@ -1,6 +1,6 @@
 ---
 title: 通过组合查询结果优化目标
-description: 了解如何通过使用交叉或合并活动组合工作流中的查询结果来优化目标。
+description: 了解如何通过使用交集或并集活动在工作流中组合查询结果来优化目标。
 feature: 工作流、定位活动、查询编辑器
 kt: 7844
 thumbnail: 334304.jpg
@@ -10,16 +10,16 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 54bfc29ea7ad14325b13f8ca488c4ff207c2f3a8
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 52%
 
 ---
 
 # 通过组合查询结果优化目标
 
-了解如何通过使用&#x200B;**[!UICONTROL 交叉]**&#x200B;或&#x200B;**[!UICONTROL 合并]**&#x200B;活动组合工作流中的查询结果来优化目标。
+了解如何通过使用交集或并集活动在工作流中组合查询结果来优化目标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
 
