@@ -1,6 +1,6 @@
 ---
 title: 浏览 Adobe Campaign 用户界面
-description: 了解 Adobe Campaign 用户界面，并了解如何导航主要功能。
+description: 了解Adobe Campaign V8用户界面以及如何导航主要功能。
 feature: 概述
 kt: 7828
 thumbnail: 334496.jpg
@@ -9,15 +9,15 @@ activity: understand
 team: TM
 role: User
 level: Beginner
-source-git-commit: 39d79c9d853214b91e4f192fb01381473ec06ca0
+source-git-commit: 78ccc8b03e404a67cce1843780fa78dc4c28d074
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 100%
+source-wordcount: '43'
+ht-degree: 30%
 
 ---
 
 # 浏览 Adobe Campaign 用户界面
 
-了解 Adobe Campaign 用户界面，并了解如何导航主要功能。
+了解Adobe Campaign V8用户界面以及如何导航主要功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12)
