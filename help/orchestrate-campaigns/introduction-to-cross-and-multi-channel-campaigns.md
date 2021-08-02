@@ -1,6 +1,6 @@
 ---
 title: 多渠道和跨渠道营销活动简介
-description: 了解多渠道营销活动和跨渠道营销活动之间的差异，并了解多渠道营销活动和跨渠道营销活动的用例内容。
+description: 了解多渠道和跨渠道营销活动与用例之间的差异。
 feature: 工作流
 kt: 7796
 thumbnail: 335610.jpg
@@ -8,16 +8,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f7391930-f712-408a-8933-3225d10864e7
-source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
+source-git-commit: 876f452469c9ed1b8c470a736aee7d62c9df8f37
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '45'
+ht-degree: 46%
 
 ---
 
 # 多渠道和跨渠道营销活动简介
 
-了解多渠道营销活动和跨渠道营销活动之间的差异，并了解多渠道营销活动和跨渠道营销活动的用例内容。
+了解多渠道和跨渠道营销活动与用例之间的差异。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12)
 
