@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
+source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 91%
+ht-degree: 90%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 91%
    + [管理营销活动](/help/get-started/manage-marketing-campaigns.md)
    + [创建营销计划、项目和活动](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [创建事件触发式活动](/help/get-started/create-event-triggered-campaigns.md)
-+ 用户档案管理{#profile-management}
++ 用户档案管理 {#profile-management}
    + [创建和管理用户档案](/help/profile-management/create-and-manage-profiles.md)
    + [在工作流中定位用户档案](/help/profile-management/target-profiles-in-a-workflow.md)
-+ 活动编排{#campaign-orchestration}
++ 营销活动编排 {#campaign-orchestration}
    + [执行活动](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [多渠道活动和跨渠道活动简介](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [创建多渠道活动](/help/orchestrate-campaigns/multi-channel-campaigns.md)
@@ -72,7 +72,7 @@ ht-degree: 91%
    + [管理批准](/help/process-management/manage-approvals.md)
    + [使用更新列表活动](/help/process-management/use-the-update-list-activity.md)
    + [配置扩充活动](/help/process-management/enrichment-activity.md)
-+ 数据管理{#data-management}
++ 数据管理 {#data-management}
    + [导入用户档案](/help/data-management/import-profiles.md)
    + [数据复制](/help/data-management/data-replication.md)
 + 与其他解决方案配合使用{#connect}
