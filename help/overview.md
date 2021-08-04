@@ -6,7 +6,7 @@ feature: 概述
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 71%
@@ -30,11 +30,11 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 <table>
 <tr>
   <td>
-    <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+    <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
       <img alt="创建营销计划、项目和营销策划（视频）" src="./assets/333810.jpg"/>
     </a>
     <div>
-      <a href="./getting-started/create-a-marketing-plan-programs-and-campaigns.md">
+      <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
     <strong>创建营销计划</strong>
     </a>
     </div>
