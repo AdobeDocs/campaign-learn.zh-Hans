@@ -1,6 +1,6 @@
 ---
 title: 在工作流中定位用户档案
-description: 了解活动工作流的使用情况，并了解如何创建工作流以及使用筛选条件在工作流中定向用户档案。
+description: 了解活动工作流的使用、如何创建工作流以及使用筛选条件在工作流中定位用户档案。
 kt: 7842
 thumbnail: 334300.jpg
 doc-type: feature video
@@ -9,15 +9,15 @@ team: WWFRE
 role: User
 level: Beginner
 source-git-commit: 08e46479272cd319377fdf27f8585acc47deea06
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
-ht-degree: 45%
+ht-degree: 100%
 
 ---
 
 # 在工作流中定位用户档案
 
-了解活动工作流的使用情况，并了解如何创建工作流以及使用筛选条件在工作流中定向用户档案。
+了解活动工作流的使用、如何创建工作流以及使用筛选条件在工作流中定位用户档案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12)
 
