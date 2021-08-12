@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '239'
 ht-degree: 100%
 
@@ -42,6 +42,6 @@ ht-degree: 100%
 
 ## 如何设置连续投放 {#how-to-set-up-a-continuous-delivery}
 
-以下视频演示了如何使用增量查询配置连续投放。
+本视频演示了如何使用增量查询配置连续投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
