@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,19 +19,19 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 >[!NOTE]
 > 当前，Campaign v8 仅作为托管云服务提供，不能部署在内部部署或混合环境中。从现有 Campaign Classic v7 环境进行迁移的功能尚不可用。
->关于两个版本之间差异的更多信息，请参阅 [Classic v7 到 V8 产品文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html)。另请参阅 [Campaign Classic V7 教程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans)部分以观看说明视频。
+>关于两个版本之间差异的更多信息，请参阅 [Classic v7 到 V8 产品文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=zh-Hans)。另请参阅 [Campaign Classic V7 教程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans)部分以观看说明视频。
 
 ## 新增功能
 
-[重要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[重要功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hans)
 
-## 员工挑选
+## 员工精选
 
 <table>
 <tr>
   <td>
     <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-      <img alt="创建营销计划、项目和营销策划（视频）" src="./assets/333810.jpg"/>
+      <img alt="创建营销计划、项目和营销活动（视频）" src="./assets/333810.jpg"/>
     </a>
     <div>
       <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
@@ -39,7 +39,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     </a>
     </div>
     <p>
-    <em>了解如何创建营销计划、项目和营销策划。</em>
+    <em>了解如何创建营销计划、项目和营销活动。</em>
     <p>
   </td>
    <td>
@@ -52,20 +52,20 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     </a>
     </div> 
     <p>
-    <em>了解创建电子邮件投放的过程，并了解如何设计和个性化电子邮件内容。</em>
+    <em>了解创建电子邮件投放的过程及如何设计和个性化电子邮件内容。</em>
     <p>
   </td>
   <td>
     <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-      <img alt="使用分类规则管理疲劳（视频）" src="./assets/333787.jpg" />
+      <img alt="使用类型规则管理疲劳（视频）" src="./assets/333787.jpg" />
     </a>
     <div>
       <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-    <strong>使用分类规则管理疲劳</strong>
+    <strong>使用类型规则管理疲劳</strong>
     </a>
     </div>
     <p>
-    <em>了解如何使用分类规则在Adobe Campaign中实施疲劳管理。  </em>
+    <em>了解如何使用类型规则在 Adobe Campaign 中实施疲劳管理。</em>
     <p>
   </td>
 </tr>
@@ -81,7 +81,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     </a>
     </div>
     <p>
-    <em>了解如何从工作流生成[!UICONTROL描述性分析报告]。</em>
+    <em>了解如何从工作流生成描述性分析报告。</em>
     <p>
   </td>
 
@@ -89,4 +89,4 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 其他资源
 
-* [文档](https://experienceleague.adobe.com/docs/campaign-v8.html)
+* [文档](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hans)
