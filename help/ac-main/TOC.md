@@ -6,9 +6,9 @@ user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠�
 breadcrumb-title: 教程
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 90%
 # Adobe Campaign V8 教程 {#tutorials}
 
 + [概述](/help/overview.md)
-+ 入门{#getting-started}
++ 开始使用{#getting-started}
    + [Adobe Campaign 简介](/help/get-started/introduction-to-adobe-campaign.md)
-   + [安装和设置Adobe Campaign客户端控制台](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
+   + [安装和设置 Adobe Campaign 客户端控制台](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [浏览 Adobe Campaign 用户界面](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [管理营销活动](/help/get-started/manage-marketing-campaigns.md)
    + [创建营销计划、项目和活动](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -35,7 +35,7 @@ ht-degree: 90%
    + 电子邮件{#email}
       + [创建和设计电子邮件投放](/help/content-creation/create-and-design-email-deliveries.md)
       + [配置动态内容](/help/content-creation/configure-dynamic-content.md)
-      + [使用动态内容块对电子邮件进行个性化定制](/help/content-creation/personalize-using-dynamic-content-blocks.md)
+      + [使用动态内容块个性化电子邮件](/help/content-creation/personalize-using-dynamic-content-blocks.md)
       + [使用个性化字段对电子邮件进行个性化定制](/help/content-creation/personalize-emails-using-personalization-fields.md)
       + [使用条件内容创建多语言新闻稿](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [使用 AMP 定义交互式电子邮件内容](/help/content-creation/design-interactive-email-content-with-amp.md)
@@ -48,7 +48,7 @@ ht-degree: 90%
       + [设计可投放的电子邮件](/help/send-messages/email/design-emails-for-deliverability.md)
       + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
    + 短信{#sms}
-      + [创建短信投放](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [创建短信投放。](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 推送{#push}
       + [安装移动应用程序渠道](/help/send-messages/mobile/install-the-mobile-app.md)
       + [使用 Experience Platform Mobile SDK 配置推送渠道](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -59,7 +59,7 @@ ht-degree: 90%
       + [设置投放模板属性](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [部署临时电子邮件投放模板](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + 疲劳管理{#fatigue-management}
-      + [分类规则](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+      + [类型规则](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [预定义过滤器](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [配置和管理订阅服务](/help/send-messages/configure-and-manage-subscription-services.md)
 + 流程管理和自动化{#process-management}
@@ -75,7 +75,7 @@ ht-degree: 90%
 + 数据管理 {#data-management}
    + [导入用户档案](/help/data-management/import-profiles.md)
    + [数据复制](/help/data-management/data-replication.md)
-+ 与其他解决方案配合使用{#connect}
++ 与其他解决方案连接{#connect}
    + [Snowflake 的大数据管理](/help/connect/big-data-segmentation-on-snowflake.md)
    + [与 Dynamics 365 集成](/help/connect/dynamics365-integration.md)
 + 报告{#reporting}
