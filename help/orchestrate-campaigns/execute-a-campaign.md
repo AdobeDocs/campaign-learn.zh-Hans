@@ -9,12 +9,13 @@ activity: use
 team: WWFRE
 role: User
 level: Beginner
-source-git-commit: 7eaee8057c53615640dd79b5cf158e17ca47bdb8
-workflow-type: ht
-source-wordcount: '36'
-ht-degree: 100%
+source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
+
 
 # 执行营销活动
 
