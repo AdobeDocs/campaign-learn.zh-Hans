@@ -7,12 +7,13 @@ thumbnail: 335607.jpg
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: e28e2f83ef1cbf82fe4969420bd80faae27e3a17
-workflow-type: ht
-source-wordcount: '93'
-ht-degree: 100%
+source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
+
 
 # 创建跨渠道营销活动
 
