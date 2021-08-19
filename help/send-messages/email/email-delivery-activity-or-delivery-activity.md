@@ -1,14 +1,14 @@
 ---
-title: 电子邮件投放活动与 Adobe Campaign Classic 投放活动的对比
+title: 电子邮件投放活动与投放活动对比
 description: 此视频介绍了如何配置和使用投放模板。
 feature: 投放模板
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '133'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
 
-## 其他资源{#additional-resources}
+## 其他资源 {#additional-resources}
 
 * [关于模板](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=zh-Hans)
 * [创建投放模板](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=zh-Hans)
