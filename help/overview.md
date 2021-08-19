@@ -6,10 +6,10 @@ feature: 概述
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 047d3143f879e3d916505cbb26c88c0549ac5ccb
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 84%
+source-wordcount: '380'
+ht-degree: 77%
 
 ---
 
@@ -27,6 +27,10 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 ## 新增功能
 
 关于Adobe Campaign v8的[关键功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hans)的概述。
+
+* **[控制面板](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+
+   *了解如何监控关键资产并执行管理任务，例如按实例管理SFTP存储、将IP地址添加到允许列表或管理GPG密钥。*
 
 ## 员工精选
 
