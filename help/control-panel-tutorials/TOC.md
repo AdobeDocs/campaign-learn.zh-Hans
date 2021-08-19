@@ -7,17 +7,17 @@ index: true
 feature: 控制面板
 role: Admin
 level: Experienced
-source-git-commit: 4fc34f56e13c3df5f1c42c24c87a6c7c5caff04b
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 48%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 
 # Adobe Campaign 控制面板 - 教程 {#control-panel}
 
-+ [控制面板概述](/help/control-panel-tutorials/control-panel-overview.md)
++ [概述](/help/control-panel-tutorials/control-panel-overview.md)
 + [开始使用控制面板](/help/control-panel-tutorials/get-started.md)
 + SFTP 管理 {#sftp-management}
    + [监控服务器容量](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
@@ -28,8 +28,8 @@ ht-degree: 48%
    + [向允许列表添加IP地址](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [添加URL权限](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + GPG 密钥管理 {#gpg-key-management}
-      + [GPG 密钥管理 - 概述](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [生成并安装用于数据加密的GPG密钥](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
+      + [概述](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [生成和安装GPG密钥](/help/control-panel-tutorials/instance-settings/gpg-key-management/generate-and-install-gpg-keys.md)
       + [使用GPG密钥加密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [解密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypt-data.md)
 + 性能监测 {#performance-monitoring}
