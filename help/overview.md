@@ -6,10 +6,10 @@ feature: 概述
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
+source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 77%
+source-wordcount: '364'
+ht-degree: 78%
 
 ---
 
@@ -25,8 +25,6 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 >关于两个版本之间差异的更多信息，请参阅 [Classic v7 到 V8 产品文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=zh-Hans)。另请参阅 [Campaign Classic V7 教程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans)部分以观看说明视频。
 
 ## 新增功能
-
-关于Adobe Campaign v8的[关键功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hans)的概述。
 
 * **[控制面板](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
 
