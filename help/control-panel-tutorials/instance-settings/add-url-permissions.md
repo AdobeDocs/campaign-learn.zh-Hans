@@ -1,6 +1,6 @@
 ---
 title: 添加URL权限
-description: 了解如何建立从Adobe Campaign Classic实例到外部URL的连接。
+description: 了解如何建立从Adobe Campaign实例到外部URL的连接。
 feature: 控制面板
 kt: 8514
 thumbnail: 28149.jpg
@@ -9,16 +9,16 @@ activity: use
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 16%
+source-wordcount: '52'
+ht-degree: 17%
 
 ---
 
 # 添加URL权限
 
-了解如何从[!UICONTROL Adobe Campaign Classic]实例建立与外部URL的连接。
+了解如何从[!UICONTROL Adobe Campaign]实例建立与外部URL的连接。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
