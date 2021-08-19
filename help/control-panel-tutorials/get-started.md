@@ -9,26 +9,22 @@ activity: setup
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 80d3fab30d8b440d82b3641cd86eca312e44de1a
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 35%
+source-wordcount: '222'
+ht-degree: 32%
 
 ---
 
 # [!UICONTROL 控制面板]入门 {#control-panel}
-
->[!NOTE]
->
-> 所有管理员用户都可访问控制面板。[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hans#discover-control-panel)中详细描述了授予用户管理员访问权限的步骤。
->
-> 您的实例必须托管在AWS上，并升级为最新的[Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=zh-Hans)内部版本或最新的[GA内部版本(21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes)。 在[本节](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)中了解如何确认您的版本。要检查您的实例是否托管在 AWS 上，请按照[此页面](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)中详述的步骤操作。
 
 [!UICONTROL 控制面板]允许Adobe Campaign管理员监视关键资产并执行管理任务，例如按实例管理[!DNL SFTP]存储、管理[!DNL GPG]密钥或[!UICONTROL 子域]和[!UICONTROL 证书]。
 
 本文介绍如何访问控制面板以及使用控制面板的先决条件。
 
 ## 访问[!UICONTROL 控制面板]
+
+所有管理员用户都可访问控制面板。[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hans#discover-control-panel)中详细描述了授予用户管理员访问权限的步骤。
 
 要访问控制面板，请转到Experience Cloud主页：[https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
