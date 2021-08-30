@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '93'
+ht-degree: 100%
 
 ---
 
