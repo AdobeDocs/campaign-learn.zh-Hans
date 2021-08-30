@@ -1,5 +1,5 @@
 ---
-title: 监视数据库
+title: 监测数据库
 description: 了解如何监测实例的数据库使用情况。
 feature: 控制面板
 kt: 8519
@@ -11,15 +11,15 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
-# 监视数据库
+# 监测数据库
 
-您的 Campaign 实例的所有资源、工作流程和数据都存储在数据库中。数据库达到其最大容量可能会导致实例出现问题（无法登录、无法发送电子邮件等）。 因此，定期监测实例的数据库是确保理想性能的关键。
+您的 Campaign 实例的所有资源、工作流程和数据都存储在数据库中。数据库达到最大容量可能会导致实例出现问题（无法登录、无法发送电子邮件等）。因此，必须定期监测实例的数据库以确保最佳性能。
 
 了解如何监测实例的数据库使用情况。
 
