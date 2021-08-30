@@ -1,6 +1,6 @@
 ---
-title: 生成和安装GPG密钥
-description: 了解如何在Campaign实例上生成和安装公钥/私钥对以进行数据加密。
+title: 生成和安装 GPG 密钥
+description: 了解如何在 Campaign 实例上生成并安装公钥/私钥对，以加密数据。
 feature: 控制面板
 kt: 8517
 thumbnail: 36386.jpg
@@ -10,15 +10,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 29%
+ht-degree: 100%
 
 ---
 
-# 生成和安装GPG密钥
+# 生成和安装 GPG 密钥
 
-了解如何在[!DNL Campaign]实例上生成和安装公钥/私钥对，以进行数据加密。
+了解如何在 [!DNL Campaign] 实例上生成并安装公钥/私钥对，以加密数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
