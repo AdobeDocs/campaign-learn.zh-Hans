@@ -1,7 +1,7 @@
 ---
 title: 控制面板 - 概述
-description: 控制面板允许Adobe Campaign管理员监控关键资产并执行管理任务，例如按实例管理SFTP存储、将IP地址添加到允许列表或管理GPG密钥。
-landing-page-description: Adobe Campaign控制面板允许Adobe Campaign管理员监控关键资产并执行管理任务，例如按实例管理SFTP存储、将IP地址添加到允许列表或管理GPG密钥。
+description: 通过控制面板，Adobe Campaign 管理员可以监测关键资产并执行管理任务，例如按实例管理 SFTP 存储、将 IP 地址列入允许列表或管理 GPG 密钥。
+landing-page-description: 通过 Adobe Campaign 控制面板，Adobe Campaign 管理员可以监测关键资产并执行管理任务，例如按实例管理 SFTP 存储、将 IP 地址列入允许列表或管理 GPG 密钥。
 feature: 控制面板
 doc-type: feature video
 activity: use
@@ -9,15 +9,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '216'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # 控制面板 - 概述
 
-控制面板允许Adobe Campaign管理员监控关键资产并执行管理任务，例如按实例管理SFTP存储、将IP地址添加到允许列表或管理GPG密钥。
+通过控制面板，Adobe Campaign 管理员可以监测关键资产并执行管理任务，例如按实例管理 SFTP 存储、将 IP 地址列入允许列表或管理 GPG 密钥。
 
 ## 员工精选
 
@@ -29,11 +29,11 @@ ht-degree: 41%
     </a>
     <div>
       <a href="./get-started.md">
-    <strong>开始使用控制面板</strong>
+    <strong>控制面板入门</strong>
     </a>
     </div>
     <p>
-    <em>了解如何访问控制面板，以及使用控制面板的先决条件。  </em>
+    <em>了解如何访问控制面板，以及使用控制面板的先决条件。</em>
     <p>
   </td>
   <td>
@@ -42,7 +42,7 @@ ht-degree: 41%
     </a>
     <div>
       <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
-    <strong>生成并安装用于数据加密的GPG密钥</strong>
+    <strong>生成并安装用于数据加密的 GPG 密钥</strong>
     </a>
     </div>
     <p>
