@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 78%
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign V8 的众多特性和功能的视频和教程。
 
 >[!INFO]
-> 你有问题吗？ 您想与同行分享您的经验或交流想法吗？ 或者，您是否对Adobe团队的学习内容有反馈？ 在[Adobe Campaign学习社区线程](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)中加入对话！
+> 您是否有疑问？您想与同行分享您的经验或交流想法吗？或者，您是否对 Adobe 团队的学习内容有任何反馈意见？在 [Adobe Campaign 学习社区的主题帖](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)中加入对话！
 
 >[!NOTE]
 > 当前，Campaign v8 仅作为托管云服务提供，不能部署在内部部署或混合环境中。从现有 Campaign Classic v7 环境进行迁移的功能尚不可用。
@@ -26,9 +26,9 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[控制面板](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+* **[控制面板](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hans)**
 
-   *了解如何监控关键资产并执行管理任务，例如按实例管理SFTP存储、将IP地址添加到允许列表或管理GPG密钥。*
+   *了解如何监测关键资产并执行管理任务，例如按实例管理 SFTP 存储、将 IP 地址添加到允许列表或管理 GPG 密钥。*
 
 ## 员工精选
 
