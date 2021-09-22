@@ -1,5 +1,5 @@
 ---
-title: 为订阅者创建“新文章警报”电子邮件投放 — 概述
+title: 创建文章警报投放 — 概述
 description: 了解如何创建工作流，以通过电子邮件投放向收件人发出他们订阅的任何新文章的警报。
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
@@ -7,14 +7,14 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 87bf30887ee6dfd08094ce4a94a7cd1cdcaa2641
+source-git-commit: cd82b3ba087ed7d724798b1604588834475a3f5c
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 为订阅者创建“新文章警报”电子邮件投放 — 概述
+# 创建文章警报投放 — 概述
 
 了解如何创建工作流，以通过电子邮件投放向收件人发出他们订阅的任何新文章的警报。
 
