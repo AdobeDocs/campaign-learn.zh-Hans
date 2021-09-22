@@ -2,14 +2,14 @@
 title: Adobe Campaign V8 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 sub-product: Campaign V8
-feature: 概述
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: ht
-source-wordcount: '364'
-ht-degree: 100%
+source-git-commit: 3469a37e5142174d9dd69272397a7854bc1674fa
+workflow-type: tm+mt
+source-wordcount: '395'
+ht-degree: 91%
 
 ---
 
@@ -26,6 +26,9 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
+* **[教程：在工作流中使用SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+
+   *了解如何使用Adobe Campaign Soap API并根据通过API收到的数据创建高级交付工作流。*
 * **[控制面板](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hans)**
 
    *了解如何监测关键资产并执行管理任务，例如按实例管理 SFTP 存储、将 IP 地址添加到允许列表或管理 GPG 密钥。*
