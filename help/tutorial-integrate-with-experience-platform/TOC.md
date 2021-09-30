@@ -3,7 +3,7 @@ user-guide-title: 与Experience Platform集成
 user-guide-description: 了解如何导入和导出Campaign和Experience Cloud数据，以便两个解决方案之间进行通信。
 breadcrumb-title: 与Experience Platform集成
 breadcrumb-url: /campaign-learn/integrate-with-experience-platform/introduction.html
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # 与Experience Platform集成 {#experience-platform-data-integration}
 
-+ [简介](/help/tutorial-integrate-with-experience-platform/introduction.md)
++ [概述](/help/tutorial-integrate-with-experience-platform/overview.md)
 + [将Experience Platform数据导入Campaign]{#import-experience-platform-data-into-campaign}
    + [将Campaign连接到Experience Platform作为目标](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
    + [从Experience Platform导入收件人数据并发送电子邮件](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
