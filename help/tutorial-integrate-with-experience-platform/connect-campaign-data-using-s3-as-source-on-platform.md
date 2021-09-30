@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Experience Platform上使用源连接Campaign数据
+title: 在Adobe Experience Platform上使用S3作为源连接Campaign数据
 description: 了解如何在Experience Platform中使用源连接器摄取数据，以使用导出的营销活动日志更新用户档案数据。
 feature: Data Import/Export, Data Management
 kt: 8159
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Developer
 level: Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '85'
 ht-degree: 2%
 
 ---
 
 
-# 在Adobe Experience Platform上使用源连接Campaign数据
+# 在Adobe Experience Platform上使用S3作为源连接Campaign数据
 
 了解如何在Experience Platform中使用源连接器摄取数据，以使用导出的营销活动日志更新用户档案数据。
 
