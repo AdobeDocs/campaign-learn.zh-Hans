@@ -4,8 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
-breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 3bbec9aa316069143b356ea79f93291b403e9997
+source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
