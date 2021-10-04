@@ -1,6 +1,6 @@
 ---
 title: 创建导出工作流（第2部分） — 提取、格式化数据并将其保存到外部帐户
-description: 在创建导出工作流教程的第二部分中，您将学习如何设置导出数据的格式，以及如何将数据保存到外部帐户。 
+description: 在创建导出工作流教程的第二部分中，您将学习如何设置导出数据的格式，以及如何将数据保存到外部帐户。
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -9,13 +9,13 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
-source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
+exl-id: ac29b75c-a838-4183-8ec5-034281290725
+source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # 创建导出工作流（第2部分）：提取数据、设置数据格式并将其保存到外部帐户
 
