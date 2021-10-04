@@ -2,11 +2,10 @@
 user-guide-title: 与Experience Platform集成
 user-guide-description: 了解如何导入和导出Campaign和Experience Cloud数据，以便两个解决方案之间进行通信。
 breadcrumb-title: 与Experience Platform集成
-breadcrumb-url: /campaign-learn/integrate-with-experience-platform/overview.html
-source-git-commit: 3bbec9aa316069143b356ea79f93291b403e9997
+source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 1%
 
 ---
 
