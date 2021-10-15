@@ -1,6 +1,6 @@
 ---
-title: 创建导出工作流（第2部分） — 提取、格式化数据并将其保存到外部帐户
-description: 在创建导出工作流教程的第二部分中，您将学习如何设置导出数据的格式，以及如何将数据保存到外部帐户。
+title: 创建导出工作流（第 2 部分）- 提取、格式化数据并将其保存到外部帐户
+description: 在“创建导出工作流”教程的第二部分中，您将了解如何设置导出数据的格式，以及如何将数据保存到外部帐户。
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -11,21 +11,21 @@ role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 创建导出工作流（第2部分）：提取数据、设置数据格式并将其保存到外部帐户
+# 创建导出工作流（第 2 部分）：提取数据、设置数据格式并将其保存到外部帐户
 
-在创建导出工作流教程的第二部分中，您将学习如何设置导出数据的格式，以及如何将数据保存到外部帐户。
+在“创建导出工作流”教程的第二部分中，您将了解如何设置导出数据的格式，以及如何将数据保存到外部帐户。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12)
 
 ## 资产
 
-JavaScript:保存日期
+JavaScript：保存日期
 
 ```java
  logInfo("=====================")
