@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: ca00618239e9efa68a15b7e19891e9900920fb20
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '424'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[与Experience Platform集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)**
+* **[与 Experience Platform 集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hans)**
 
-   *了解如何导入和导出Campaign和Experience Cloud数据，以便两个解决方案之间进行通信。*
+   *了解如何导入和导出 Campaign 和 Experience Cloud 数据，以便在两个解决方案之间进行通信。*
 
-* **[教程：在工作流中使用SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html)**
+* **[教程：在工作流中使用 SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=zh-Hans)**
 
-   *了解如何使用Adobe Campaign Soap API并根据通过API收到的数据创建高级交付工作流。*
+   *了解如何使用 Adobe Campaign Soap API 并根据通过 API 收到的数据创建高级投放工作流。*
 
 * **[控制面板](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hans)**
 
