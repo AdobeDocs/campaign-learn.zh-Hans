@@ -1,6 +1,6 @@
 ---
-title: 创建导出工作流（第1部分） — 查找收件人列表的上次修改日期
-description: 在“创建导出工作流”教程的第一部分中，了解如何创建工作流，以查找从Experience Platform区段创建的收件人列表的上次修改日期。
+title: 创建导出工作流（第 1 部分） - 查找收件人列表的上次修改日期
+description: 在“创建导出工作流”教程的第一部分中，了解如何创建工作流，以查找从 Experience Platform 区段创建的收件人列表的上次修改日期。
 feature: Data Import/Export, Workflows
 kt: 8162
 thumbnail: 336387.jpg
@@ -11,21 +11,21 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 创建导出工作流（第1部分） — 查找收件人列表的上次修改日期
+# 创建导出工作流（第 1 部分） - 查找收件人列表的上次修改日期
 
-在“创建导出工作流”教程的第一部分中，了解如何创建工作流，以查找从Experience Platform区段创建的收件人列表的上次修改日期。
+在“创建导出工作流”教程的第一部分中，了解如何创建工作流，以查找从 Experience Platform 区段创建的收件人列表的上次修改日期。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
 
 ## 资产
 
-JavaScript建立日期范围：
+JavaScript 建立日期范围：
 
 ```java
  var DEFAULT_LOOKBACK_DAYS = 90;
@@ -64,4 +64,4 @@ JavaScript建立日期范围：
 
 ## 下一个视频
 
-[创建导出工作流（第2部分） — 提取、格式化数据并将其保存到外部帐户](extract-format-save-data-to-external-account.md)
+[创建导出工作流（第 2 部分）- 提取、格式化数据并将其保存到外部帐户](extract-format-save-data-to-external-account.md)
