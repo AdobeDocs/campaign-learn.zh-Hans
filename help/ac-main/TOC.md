@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '338'
+ht-degree: 100%
 
 ---
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 + 数据管理 {#data-management}
    + [导入用户档案](/help/data-management/import-profiles.md)
    + [数据复制](/help/data-management/data-replication.md)
-   + [教程：使用SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)
+   + [教程：使用 SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=zh-Hans)
 + 与其他解决方案连接{#connect}
    + [Snowflake 的大数据管理](/help/connect/big-data-segmentation-on-snowflake.md)
    + [与 Dynamics 365 集成](/help/connect/dynamics365-integration.md)
-   + [与Experience Platform集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html)
+   + [与 Experience Platform 集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hans)
 + 报告{#reporting}
    + [访问内置报告](/help/reporting/access-built-in-reports.md)
    + [生成描述性分析报告](/help/reporting/generate-a-descriptive-analysis-report.md)
@@ -87,4 +87,4 @@ ht-degree: 0%
    + [工作流热图](/help/monitoring/workflow-heatmap.md)
    + [审核记录](/help/monitoring/audit-trail.md)
 + 管理 {#administration}
-   + [控制面板](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hans)
+   + [控制面板](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=zh-Hans)
