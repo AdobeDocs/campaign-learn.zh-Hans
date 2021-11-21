@@ -1,7 +1,7 @@
 ---
 title: 创建营销计划、项目和营销活动
 description: 了解 Adobe Campaign 的主要概念，能帮助我们有效规划、执行和衡量跨渠道营销活动。
-feature: 活动
+feature: Campaigns
 kt: 7830
 thumbnail: 333810.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 4338d42f-14e0-48b1-93ff-2155e6ed9f10
 source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
-workflow-type: ht
-source-wordcount: '70'
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---

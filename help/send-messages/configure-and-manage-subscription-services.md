@@ -1,7 +1,7 @@
 ---
 title: 配置和管理订阅服务
 description: 了解如何设置和管理订阅和定位订阅者。
-feature: 订阅
+feature: Subscriptions
 kt: 7790
 thumbnail: 334305.jpg
 doc-type: feature video
@@ -9,9 +9,10 @@ activity: use
 team: WWFRE
 role: User, Admin, Developer
 level: Experienced
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '31'
+exl-id: 58f30484-72ae-4821-ae22-6391fb615156
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '30'
 ht-degree: 100%
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 使用条件内容创建多语言新闻稿
 description: 了解如何在多语言新闻稿的示例中向投放添加条件内容。
-feature: 动态内容
+feature: Dynamic Content
 kt: 7792
 thumbnail: 335682.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 68e4752b-3f75-499d-956b-4c6439a0d6ca
 source-git-commit: d139ae2c913c4b46d1683a2f1a30b9cb30988d09
-workflow-type: ht
-source-wordcount: '85'
+workflow-type: tm+mt
+source-wordcount: '83'
 ht-degree: 100%
 
 ---

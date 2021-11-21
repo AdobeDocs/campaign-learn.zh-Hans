@@ -6,8 +6,8 @@ user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠�
 breadcrumb-title: 教程
 source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '343'
+ht-degree: 98%
 
 ---
 

@@ -3,7 +3,7 @@ user-guide-title: Android 推送通知入门
 user-guide-description: 本教程将指导您完成将推送通知从 Adobe Campaign 发送到 Android 应用程序时涉及的步骤。
 breadcrumb-title: Android 推送通知入门
 source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
 

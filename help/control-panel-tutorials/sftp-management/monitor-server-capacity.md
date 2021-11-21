@@ -1,7 +1,7 @@
 ---
 title: 监测服务器容量
 description: 了解如何按实例监测和管理 SFTP 存储，以及将 IP 地址添加到允许列表。
-feature: 控制面板
+feature: Control Panel
 audience: administrator
 kt: 8510
 thumbnail: 27270.jpg
@@ -10,9 +10,10 @@ activity: use
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: ht
-source-wordcount: '103'
+exl-id: 51389df6-529c-4367-bb78-1bbce7d9f2a6
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---

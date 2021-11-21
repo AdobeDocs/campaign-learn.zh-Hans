@@ -1,7 +1,7 @@
 ---
 title: 生成和安装 GPG 密钥
 description: 了解如何在 Campaign 实例上生成并安装公钥/私钥对，以加密数据。
-feature: 控制面板
+feature: Control Panel
 kt: 8517
 thumbnail: 36386.jpg
 doc-type: feature video
@@ -9,9 +9,10 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
-workflow-type: ht
-source-wordcount: '64'
+exl-id: 22338566-1ee9-4459-976e-0d67a779d2ef
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '62'
 ht-degree: 100%
 
 ---

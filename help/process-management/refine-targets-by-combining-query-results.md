@@ -1,7 +1,7 @@
 ---
 title: 通过组合查询结果优化目标
 description: 了解如何通过使用交集或并集活动在工作流中组合查询结果来优化目标。
-feature: 工作流、定位活动、查询编辑器
+feature: Workflows, Targeting Activity, Query Editor
 kt: 7844
 thumbnail: 334304.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 source-git-commit: 54bfc29ea7ad14325b13f8ca488c4ff207c2f3a8
-workflow-type: ht
-source-wordcount: '80'
+workflow-type: tm+mt
+source-wordcount: '75'
 ht-degree: 100%
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 审核记录
 description: 了解如何访问审核记录日志以及可以配置的设置。
-feature: 审核记录
+feature: Audit Trail
 kt: 7969
 doc-type: feature video
 activity: understand
@@ -10,8 +10,8 @@ role: Admin
 level: Beginner
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '103'
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---

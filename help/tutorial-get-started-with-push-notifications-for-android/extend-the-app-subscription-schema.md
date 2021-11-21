@@ -1,7 +1,7 @@
 ---
 title: 扩展应用程序订阅模式以个性化推送通知
 description: 了解如何扩展应用程序订阅模式，以便能够存储 Campaign 从移动应用程序接收到的个性化值。
-feature: 推送，模式扩展
+feature: Push, Schema Extension
 kt: 7967
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: Admin, Developer
 level: Experienced
 exl-id: c7dbb3c0-41eb-47dd-93bd-3c4caccc07ad
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '77'
+workflow-type: tm+mt
+source-wordcount: '74'
 ht-degree: 100%
 
 ---

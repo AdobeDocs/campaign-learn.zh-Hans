@@ -1,13 +1,14 @@
 ---
 title: GPG 密钥管理 - 概述
-description: '了解如何在指定的 [!DNL Campaign] 实例上生成和安装公钥/私钥对。 '
-feature: 控制面板
+description: 了解如何在指定的 [!DNL Campaign] 实例上生成和安装公钥/私钥对。
+feature: Control Panel
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
-workflow-type: ht
-source-wordcount: '103'
+exl-id: 42f72a8b-a33e-467d-bc7d-6211e857800c
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---

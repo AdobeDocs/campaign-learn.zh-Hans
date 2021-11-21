@@ -1,14 +1,14 @@
 ---
 title: 电子邮件投放活动与投放活动对比
 description: 此视频介绍了如何配置和使用投放模板。
-feature: 投放模板
+feature: Delivery Templates
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
-workflow-type: ht
-source-wordcount: '133'
+workflow-type: tm+mt
+source-wordcount: '131'
 ht-degree: 100%
 
 ---

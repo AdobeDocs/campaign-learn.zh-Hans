@@ -3,7 +3,7 @@ user-guide-title: 与 Experience Platform 集成
 user-guide-description: 了解如何导入和导出 Campaign 和 Experience Cloud 数据，以便在两个解决方案之间进行通信。
 breadcrumb-title: 与 Experience Platform 集成
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 

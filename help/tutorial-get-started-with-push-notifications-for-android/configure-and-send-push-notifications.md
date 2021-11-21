@@ -1,7 +1,7 @@
 ---
 title: 配置和发送推送通知
 description: 了解如何配置推送通知并将其发送给 Android™ 应用程序用户。
-feature: 推送
+feature: Push
 kt: 7966
 thumbnail: 328154.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 exl-id: bef60865-9d83-46a5-ad2f-77095cb7c6a2
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '53'
+workflow-type: tm+mt
+source-wordcount: '52'
 ht-degree: 100%
 
 ---

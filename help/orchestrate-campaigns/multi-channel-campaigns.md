@@ -1,7 +1,7 @@
 ---
 title: 创建多渠道活动
 description: 了解如何根据收件人的首选渠道，使用电子邮件、短信和直邮投放创建多渠道营销活动。
-feature: 工作流
+feature: Workflows
 kt: 7794
 thumbnail: 335440.jpg
 doc-type: feature video
@@ -9,13 +9,13 @@ activity: use
 team: TM
 role: User
 level: Beginner
-source-git-commit: bc6955acd0ef78fd7b8edabe15fb122ed51f77f6
-workflow-type: ht
-source-wordcount: '92'
+exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # 创建多渠道活动
 

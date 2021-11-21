@@ -1,7 +1,7 @@
 ---
 title: 使用更新列表活动通过工作流创建列表
 description: 了解 Adobe Campaign 中列表的概念，并了解如何使用工作流中的更新列表活动创建列表。
-feature: 工作流、定位活动、查询编辑器
+feature: Workflows, Targeting Activity, Query Editor
 kt: 7840
 thumbnail: 334909.jpg
 doc-type: feature video
@@ -9,9 +9,10 @@ activity: use
 team: TM
 role: User
 level: Beginner
-source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
-workflow-type: ht
-source-wordcount: '94'
+exl-id: a8cc7fed-0818-4dcb-8360-fda9dc79dae7
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
