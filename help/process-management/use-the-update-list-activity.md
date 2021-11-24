@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: a8cc7fed-0818-4dcb-8360-fda9dc79dae7
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: 7b6cc248aac3544425c35b9df66f33d9146b7bbf
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
@@ -22,9 +22,3 @@ ht-degree: 100%
 了解 Adobe Campaign 中列表的概念，并了解如何使用工作流中的更新列表活动创建列表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12)
-
-## 其他资源
-
-* [在工作流中定位用户档案](/help/profile-management/target-profiles-in-a-workflow.md)
-* [通过组合查询结果优化目标](/help/process-management/refine-targets-by-combining-query-results.md)
-* [通过排除查询结果优化目标](/help/process-management/refine-targets-by-excluding-query-results.md)
