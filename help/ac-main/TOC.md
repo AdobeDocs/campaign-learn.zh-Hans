@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
+source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 91%
@@ -65,7 +65,7 @@ ht-degree: 91%
 + 流程管理和自动化{#process-management}
    + [创建工作流](/help/process-management/create-a-workflow.md)
    + [创建循环投放和连续投放](/help/process-management/recurring-deliveries.md)
-   + 定位工作流 {#targeting workflows}
+   + 定位工作流 {#targeting-workflows}
       + [创建定位工作流](/help/process-management/create-a-targeting-workflow.md)
       + [通过组合查询结果优化目标](/help/process-management/refine-targets-by-combining-query-results.md)
       + [通过排除查询结果优化目标](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -74,9 +74,9 @@ ht-degree: 91%
    + [配置扩充活动](/help/process-management/enrichment-activity.md)
       + [简介](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [管理批准](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [配置促销活动的批准](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
-      + [配置投放的批准](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
-      + [在工作流中创建批准流程](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [配置促销活动的批准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [配置投放的批准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [在工作流中创建批准活动](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + 数据管理 {#data-management}
    + [管理批准](/help/process-management/manage-approvals.md)
    + [使用更新列表活动](/help/process-management/use-the-update-list-activity.md)
