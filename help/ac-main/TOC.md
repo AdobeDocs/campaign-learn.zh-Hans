@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
-source-git-commit: b0fcde90e008222c069d952099c7154856e91fef
+source-git-commit: fb36cc755154d4567a68ef8312b14e35d83d81e4
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 92%
 
 ---
@@ -76,7 +76,6 @@ ht-degree: 92%
       + [配置投放的批准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [在工作流中创建批准活动](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + 数据管理 {#data-management}
-   + [管理批准](/help/process-management/manage-approvals.md)
    + [使用更新列表活动](/help/process-management/use-the-update-list-activity.md)
    + [配置扩充活动](/help/process-management/enrichment-activity.md)
    + [创建和扩展架构](/help/data-management/create-and-extend-a-schema.md)
