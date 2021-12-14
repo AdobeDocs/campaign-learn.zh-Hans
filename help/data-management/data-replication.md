@@ -9,10 +9,10 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: b1385d5e-0670-47d3-9c5e-382d6d08b7d0
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 94%
 
 ---
 
@@ -24,4 +24,5 @@ ht-degree: 100%
 
 ## 其他资源
 
+* [API暂存机制（视频）](/help/data-management/api-staging-mechanism.md)
 * [数据复制（文档）](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/replication.html?lang=zh-Hans#data-replication)
