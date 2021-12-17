@@ -7,7 +7,7 @@ breadcrumb-title: 教程
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -69,11 +69,11 @@ ht-degree: 92%
       + [创建定位工作流](/help/process-management/create-a-targeting-workflow.md)
       + [通过组合查询结果优化目标](/help/process-management/refine-targets-by-combining-query-results.md)
       + [通过排除查询结果优化目标](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + 审批和验证工作流 {#create-approvals-and-validation-workflows}
+   + 批准和验证工作流 {#create-approvals-and-validation-workflows}
       + [简介](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [管理批准](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [配置促销活动的批准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [配置投放的批准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [为营销活动配置批准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [为投放配置批准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [在工作流中创建批准活动](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + 数据管理 {#data-management}
    + [使用更新列表活动](/help/process-management/use-the-update-list-activity.md)

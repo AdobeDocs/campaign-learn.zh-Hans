@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 * **[创建和扩展架构](/help/data-management/create-and-extend-a-schema.md)**
 
-   *了解如何创建新模式和扩展现有模式。*
+   *了解如何创建新架构和扩展现有架构。*
 
 * **[与 Experience Platform 集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hans)**
 
