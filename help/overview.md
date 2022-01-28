@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 69e794119c4f3e8d455c7300b23ca75350e28154
+source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 96%
+source-wordcount: '411'
+ht-degree: 78%
 
 ---
 
@@ -27,18 +27,17 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
+* **[更改数据源](/help/data-management/change-data-source.md)**
+
+   *了解如何使用更改数据源活动来更改工作流工作表的数据源，以便灵活管理跨不同数据源（如FDA、FFDA和本地数据库）的数据。*
+
+* **[使用工作流管理数据的基础知识](/help/data-management/data-management-fundamentals.md)**
+
+   *了解哪些定向维度和工作表，以及Adobe Campaign如何跨不同数据源管理数据。*
+
 * **[使用FFDA的API暂存机制](/help/data-management/api-staging-mechanism.md)**
 
    *了解具有完整FDA的API暂存机制的工作原理。*
-
-* **[创建和扩展架构](/help/data-management/create-and-extend-a-schema.md)**
-
-   *了解如何创建新架构和扩展现有架构。*
-
-* **[与 Experience Platform 集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hans)**
-
-   *了解如何导入和导出 Campaign 和 Experience Cloud 数据，以便在两个解决方案之间进行通信。*
-
 
 ## 员工精选
 
@@ -102,6 +101,4 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 </table>
 
-## 其他资源
-
-* [文档](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hans)
+请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hans) 有关此功能的更多详细信息。
