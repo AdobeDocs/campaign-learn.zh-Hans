@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 297db41d-38d6-4fd4-b72b-0615ce23b981
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ ht-degree: 100%
 了解如何根据客户与首次投放的交互情况，使用电子邮件和直邮投放创建跨渠道营销活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12)
-
-## 其他资源
-
-* [多渠道和跨渠道营销活动简介](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)

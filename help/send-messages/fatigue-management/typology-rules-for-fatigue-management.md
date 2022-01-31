@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 8a6e8580-24c2-44d9-88bc-1120bfdd9e8a
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,3 @@ ht-degree: 100%
 了解如何使用类型规则在 Adobe Campaign 中实施疲劳管理。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333787?quality=12)
-
-## 其他资源
-
-* [关于营销活动类型](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hans)
-* [使用压力规则管理营销疲劳度](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=zh-Hans)

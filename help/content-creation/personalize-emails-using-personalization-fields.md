@@ -10,9 +10,9 @@ team: TM
 role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,3 @@ ht-degree: 100%
 了解如何在主题行中添加个性化字段，以及如何添加电子邮件投放的内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
-
-## 其他资源
-
-* [使用动态内容块个性化电子邮件](/help/content-creation/personalize-using-dynamic-content-blocks.md)
-* [使用条件内容创建多语言新闻稿](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
