@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -29,15 +29,15 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 * **[更改数据源](/help/data-management/change-data-source.md)**
 
-   *了解如何使用更改数据源活动来更改工作流工作表的数据源，以便灵活管理跨不同数据源（如FDA、FFDA和本地数据库）的数据。*
+   *了解如何使用“更改数据源活动”来更改工作流工作表的数据源，以便灵活地管理不同数据源（如 FDA、FFDA 和本地数据库）的数据。*
 
-* **[使用工作流管理数据的基础知识](/help/data-management/data-management-fundamentals.md)**
+* **[使用工作流进行数据管理的基础知识](/help/data-management/data-management-fundamentals.md)**
 
-   *了解哪些定向维度和工作表，以及Adobe Campaign如何跨不同数据源管理数据。*
+   *了解什么是定位维度和工作表，以及 Adobe Campaign 如何管理不同数据源的数据。*
 
-* **[使用FFDA的API暂存机制](/help/data-management/api-staging-mechanism.md)**
+* **[使用 FFDA 的 API 暂存机制](/help/data-management/api-staging-mechanism.md)**
 
-   *了解具有完整FDA的API暂存机制的工作原理。*
+   *了解使用 Full FDA 的 API 暂存机制的工作原理。*
 
 ## 员工精选
 
@@ -101,4 +101,4 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 </table>
 
-请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hans) 有关此功能的更多详细信息。
+请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hans)，了解有关此功能的更多详细信息。
