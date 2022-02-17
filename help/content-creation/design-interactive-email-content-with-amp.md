@@ -13,9 +13,9 @@ hide: true
 hidefromtoc: true
 exl-id: aacbec3e-6281-497d-9cf5-bace5a6a11a1
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ AMP for Email 是一新型开放源码格式，它使开发人员能够创建动
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=zh-Hans#about-amp-for-email) 以了解更多详细信息。
+有关更多详细信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=zh-Hans#about-amp-for-email)。
