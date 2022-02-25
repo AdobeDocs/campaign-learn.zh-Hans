@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 69e912929698909c6a781f9ca771ba90cdbab582
+source-git-commit: 50b72be4f33e791986cb5bf6d9cc3e1554d427bf
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 91%
@@ -27,7 +27,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[与Experience Manager集成 ](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en))**
+* **[与Experience Manager集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
 
 *了解如何将Adobe Campaign与Adobe Experience Manager连接起来，以便在Experience Manager中管理电子邮件投放模板、资产和表单。*
 
