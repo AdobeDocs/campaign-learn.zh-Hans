@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
-source-git-commit: 9ba0862edca7be243e9b26d5b0b99d2b5b5900b0
+source-git-commit: db3716cb59214c4fb26a564451cb27b02c04ff12
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 98%
+source-wordcount: '370'
+ht-degree: 100%
 
 ---
 
@@ -87,7 +87,6 @@ ht-degree: 98%
    + [教程：使用 SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=zh-Hans)
 + 与其他解决方案连接{#connect}
    + [与 Experience Platform 集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hans)
-   + 与Experience Manager集成 {#AEM}
    + [与 Dynamics 365 集成](/help/connect/dynamics365-integration.md)
 + 报告{#reporting}
    + [访问内置报告](/help/reporting/access-built-in-reports.md)
