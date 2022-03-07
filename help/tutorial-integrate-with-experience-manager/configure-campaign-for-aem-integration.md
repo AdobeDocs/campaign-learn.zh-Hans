@@ -1,6 +1,6 @@
 ---
-title: 为Experience Manager集成配置Campaign
-description: 了解如何设置Experience Manager与Campaign之间的集成，包括要查找的重要设置以及可能要避免的“难题”。
+title: 为 Experience Manager 集成配置 Campaign
+description: 了解如何设置 Experience Manager 与 Campaign 之间的集成，包括要查找的重要设置以及要避免的潜在“陷阱”。
 feature: Experience Manager Integration
 kt: 9594
 thumbnail: 340121.jpg
@@ -10,14 +10,14 @@ team: TM
 role: Admin, Developer
 level: Experienced
 source-git-commit: 5b0a6644e9f5407726c5f389db62ab7a0921abac
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 为Experience Manager集成配置Campaign
+# 为 Experience Manager 集成配置 Campaign
 
-了解如何设置Experience Manager与Campaign之间的集成，包括要查找的重要设置以及可能要避免的“难题”。
+了解如何设置 Experience Manager 与 Campaign 之间的集成，包括要查找的重要设置以及要避免的潜在“陷阱”。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12)
