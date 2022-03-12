@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[与Adobe Target集成](/help/connect/target-integration.md)
+* **[与Adobe Target集成](/help/connect/target-integration.md)**
 
    *了解如何使用Adobe Target提供的动态内容对投放进行个性化。*
 
@@ -65,7 +65,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
       <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>创建和设计电子邮件投放</strong>
     </a>
-    </div> 
+    </div>
     <p>
     <em>了解创建电子邮件投放的过程及如何设计和个性化电子邮件内容。</em>
     <p>
