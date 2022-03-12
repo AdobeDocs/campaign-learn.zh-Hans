@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 95%
 
 ---
 
@@ -27,17 +27,17 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[与 Experience Manager 集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=zh-Hans)**
+* **[与Adobe Target集成](/help/connect/target-integration.md)
+
+   *了解如何使用Adobe Target提供的动态内容对投放进行个性化。*
+
+* **[与Adobe Experience Manager集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=zh-Hans)**
 
    *了解如何将 Adobe Campaign 与 Adobe Experience Manager 连接起来，以便在 Experience Manager 中管理电子邮件投放模板、资源和表单。*
 
 * **[更改数据源](/help/data-management/change-data-source.md)**
 
    *了解如何使用“更改数据源活动”来更改工作流工作表的数据源，以便灵活地管理不同数据源（如 FDA、FFDA 和本地数据库）的数据。*
-
-* **[使用工作流进行数据管理的基础知识](/help/data-management/data-management-fundamentals.md)**
-
-   *了解什么是定位维度和工作表，以及 Adobe Campaign 如何管理不同数据源的数据。*
 
 
 ## 员工精选
@@ -99,7 +99,33 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     <em>了解如何从工作流生成描述性分析报告。</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="使用工作流进行数据管理的基础知识" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>使用工作流进行数据管理的基础知识</strong>
+    </a>
+    </div>
+    <p>
+    <em>了解什么是定位维度和工作表，以及 Adobe Campaign 如何管理不同数据源的数据。</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="使用 FFDA 的 API 暂存机制" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>使用 FFDA 的 API 暂存机制</strong>
+    </a>
+    </div>
+    <p>
+    <em>了解使用 Full FDA 的 API 暂存机制的工作原理。</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hans)，了解有关此功能的更多详细信息。
