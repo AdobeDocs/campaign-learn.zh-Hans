@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 kt: 9601
 thumbnail: 341030.jpg
-source-git-commit: ddbfe758fd4c27c6eb281cbf5b8091d5aa5911b2
+source-git-commit: 325c43178e1d85395096bc6d1be97dff7bb03c17
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
