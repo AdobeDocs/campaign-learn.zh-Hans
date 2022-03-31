@@ -3,15 +3,15 @@ title: 使用动态内容块个性化电子邮件
 description: 了解如何创建动态内容块以及如何使用动态内容块将电子邮件投放内容个性化。
 feature: Dynamic Content
 kt: 7941
-thumbnail: 24924
+thumbnail: 342088.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: dfbd4e9d-694e-4d43-bfc5-11b59e653ddc
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
+workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 了解如何创建动态内容块以及如何使用动态内容块将电子邮件投放内容个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12)

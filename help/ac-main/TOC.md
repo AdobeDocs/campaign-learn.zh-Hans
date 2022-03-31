@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '392'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 95%
    + [创建事件触发式活动](/help/get-started/create-event-triggered-campaigns.md)
 + 用户档案管理 {#profile-management}
    + [创建和管理用户档案](/help/profile-management/create-and-manage-profiles.md)
+   + [导入用户档案](/help/profile-management/import-profiles.md)
    + [在工作流中定位用户档案](/help/profile-management/target-profiles-in-a-workflow.md)
 + 营销活动编排 {#campaign-orchestration}
    + [执行活动](/help/orchestrate-campaigns/execute-a-campaign.md)
