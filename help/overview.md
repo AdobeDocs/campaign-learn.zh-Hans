@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '475'
+ht-degree: 100%
 
 ---
 
@@ -27,11 +27,11 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[与Adobe Target集成](/help/connect/target-integration.md)**
+* **[与 Adobe Target 集成](/help/connect/target-integration.md)**
 
-   *了解如何使用Adobe Target提供的动态内容对投放进行个性化。*
+   *了解如何使用 Adobe Target 提供的动态内容对投放进行个性化。*
 
-* **[与Adobe Experience Manager集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=zh-Hans)**
+* **[与 Adobe Experience Manager 集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=zh-Hans)**
 
    *了解如何将 Adobe Campaign 与 Adobe Experience Manager 连接起来，以便在 Experience Manager 中管理电子邮件投放模板、资源和表单。*
 
