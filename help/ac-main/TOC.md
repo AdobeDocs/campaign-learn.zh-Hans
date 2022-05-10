@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '392'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -87,10 +87,10 @@ ht-degree: 95%
    + [API 暂存机制](/help/data-management/api-staging-mechanism.md)
    + [教程：使用 SOAP API](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=zh-Hans)
 + 与其他解决方案连接{#connect}
-   + [与Adobe Experience Manager集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=zh-Hans)
-   + [与Adobe Experience Platform集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hans)
-   + [与Adobe Target集成](/help/connect/target-integration.md)
-   + [与Microsoft Dynamics 365集成](/help/connect/dynamics365-integration.md)
+   + [与 Adobe Experience Manager 集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=zh-Hans)
+   + [与 Adobe Experience Platform 集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=zh-Hans)
+   + [与 Adobe Target 集成](/help/connect/target-integration.md)
+   + [与 Microsoft Dynamics 365 集成](/help/connect/dynamics365-integration.md)
 + 报告{#reporting}
    + [访问内置报告](/help/reporting/access-built-in-reports.md)
    + [生成描述性分析报告](/help/reporting/generate-a-descriptive-analysis-report.md)
