@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
-source-wordcount: '226'
-ht-degree: 100%
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
+workflow-type: tm+mt
+source-wordcount: '230'
+ht-degree: 93%
 
 ---
 
@@ -42,9 +42,9 @@ ht-degree: 100%
 
 在开始之前，请完成以下先决条件：
 
-### 确认 [!DNL IMS Org ID]
+### 确认您组织的ID
 
-以下视频介绍了可以查看实例[!DNL IMS org ID]的位置。
+以下视频介绍您可以在何处查找组织的ID。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 

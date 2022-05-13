@@ -1,22 +1,23 @@
 ---
-title: 如何设置循环和连续的电子邮件活动
+title: 创建定期和连续的电子邮件投放
 description: 了解如何设置循环和连续投放，并了解两种方法之间的差异。
 feature: Workflows
 kt: 7982
+thumbnail: 342637.jpg
 doc-type: feature video
 activity: use
 team: TM
 role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 100%
+source-wordcount: '232'
+ht-degree: 94%
 
 ---
 
-# 如何设置循环和连续的电子邮件营销活动
+# 创建定期和连续的电子邮件投放
 
 本教程介绍了如何设置循环和连续投放，以及这两种方法之间的差异。
 
@@ -38,10 +39,10 @@ ht-degree: 100%
 
 此视频介绍了如何配置循环投放和调度程序活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12)
 
 ## 如何设置连续投放 {#how-to-set-up-a-continuous-delivery}
 
 本视频演示了如何使用增量查询配置连续投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12)

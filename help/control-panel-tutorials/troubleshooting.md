@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 100%
+source-wordcount: '337'
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 ### 症状：无法登录 Experience Cloud
 
 **要做什么：**
-用户须找到其 IMS Org ID (xxx)。管理员须将用户添加到要管理的每个实例的产品用户档案“Campaign-xxx-Admins”中。如果用户是所有实例的管理员，他们仍须将自己添加为用户。
+用户必须找到其组织的ID(xxx)。 管理员须将用户添加到要管理的每个实例的产品用户档案“Campaign-xxx-Admins”中。如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
 ### 症状：Experience Cloud 主页中的用于访问[!UICONTROL 控制面板]的链接未向某个用户显示
 
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*查找 IMS Org ID（00:26 分）*
+*检查贵组织的ID（00:26分钟）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
