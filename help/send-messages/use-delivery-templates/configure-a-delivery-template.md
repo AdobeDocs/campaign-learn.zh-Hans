@@ -10,12 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
-hide: true
-hidefromtoc: true
-source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 36fc9fa4f2e8e20b633d2f5df18b3a4d634535c8
+workflow-type: tm+mt
+source-wordcount: '90'
+ht-degree: 98%
 
 ---
 
@@ -28,7 +26,7 @@ ht-degree: 100%
 * 类型
 * 发件人和回复地址
 * 基本的个性化块
-* 镜像页面和退订的链接
+* 镜像页面和退订的链接 链接
 * 内容、公司徽标或签名
 * 其他投放属性，如资源有效性、批次数量…
 
