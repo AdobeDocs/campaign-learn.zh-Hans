@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 75%
 
 ---
 
@@ -27,18 +27,20 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[与 Adobe Target 集成](/help/connect/target-integration.md)**
+* **[短信简介](/help/tutorial-sms/introduction-to-sms.md)**:
+   *了解短信的工作方式以及Adobe Campaign发送短信的方式。*
 
-   *了解如何使用 Adobe Target 提供的动态内容对投放进行个性化。*
+* **[为标准SMPP提供商设置短信帐户](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-* **[与 Adobe Experience Manager 集成](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=zh-Hans)**
+   *了解如何根据您的SMPP提供商调整SMS连接器。 优化短信设置以处理连接限制、设置最大吞吐量、发送窗口，以及使用TLS进行加密。*
 
-   *了解如何将 Adobe Campaign 与 Adobe Experience Manager 连接起来，以便在 Experience Manager 中管理电子邮件投放模板、资源和表单。*
+* **[根据您的SMPP提供商调整SMS连接器](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-* **[更改数据源](/help/data-management/change-data-source.md)**
+   *了解如何优化短信设置以处理连接限制、设置最大吞吐量、发送窗口，以及使用TLS进行加密。*
 
-   *了解如何使用“更改数据源活动”来更改工作流工作表的数据源，以便灵活地管理不同数据源（如 FDA、FFDA 和本地数据库）的数据。*
+* **[最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](/help/strategy/campaign-maximize-email-best-practices.md)**
 
+   *了解如何最大限度地提高电子邮件投资回报，并了解实现订阅者重新参与的最佳实践。 了解提高订阅者参与度的策略，并了解电子邮件促销活动的整体成功情况。*
 
 ## 员工精选
 
