@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+source-git-commit: 99904d75300064381bdac3245b290de82990d300
 workflow-type: tm+mt
 source-wordcount: '510'
 ht-degree: 75%
@@ -27,7 +27,8 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[短信简介](/help/tutorial-sms/introduction-to-sms.md)**:
+* **[短信简介](/help/tutorial-sms/introduction-to-sms.md)**
+
    *了解短信的工作方式以及Adobe Campaign发送短信的方式。*
 
 * **[为标准SMPP提供商设置短信帐户](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
