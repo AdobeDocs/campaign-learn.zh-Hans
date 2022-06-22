@@ -1,11 +1,12 @@
 ---
 title: 最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践
-description: '了解如何最大限度地提高电子邮件投资回报，并了解实现订阅者重新参与的最佳实践。 了解提高订阅者参与度的策略，并了解电子邮件促销活动的整体成功情况。 '
+description: 了解如何最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践。了解提高订阅者参与度的策略，并了解电子邮件营销活动的整体成功情况。
 solution: Campaign
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
+source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
 workflow-type: tm+mt
-source-wordcount: '1453'
-ht-degree: 0%
+source-wordcount: '1471'
+ht-degree: 3%
 
 ---
 
@@ -135,3 +136,5 @@ ht-degree: 0%
 * **测试和学习**  — 一个良好的测试计划对于确保您的工作达到预期效果非常重要。 了解哪些内容有效哪些内容无效并进行相应迭代。
 
 有关本文的回顾和实施重新参与策略的实时演示，请观看我们的 [网络研讨会](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+
+在 [客户成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 中心。
