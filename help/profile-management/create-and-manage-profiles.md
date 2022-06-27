@@ -1,6 +1,6 @@
 ---
 title: 创建和管理用户档案
-description: 了解如何访问用户档案数据、创建用户档案，以及对创建的内容进行排序和过滤，以便更轻松地使用功能。 您还将了解如何遵守《通用数据保护条例》(GDPR)和《加州消费者隐私法案》(CCPA)。
+description: 了解如何访问用户档案数据，创建用户档案，以及对创建的内容进行排序和筛选，以便更轻松地使用功能。您还将了解如何遵守《通用数据保护条例》(GDPR) 和《加州消费者隐私法案》(CCPA)。
 feature: Profiles
 kt: 7843
 thumbnail: 334111.jpg
@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 4d50e834-5fca-4974-a0e2-081bd0aada8a
 source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
