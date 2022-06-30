@@ -3,7 +3,7 @@ title: 最大限度地提高电子邮件投资回报率，并了解实现订阅�
 description: 了解如何最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践。了解提高订阅者参与度的策略，并了解电子邮件营销活动的整体成功情况。
 solution: Campaign
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
+source-git-commit: f52e9f8cdb630c71af5e0a8c048c91a1db6b7d7b
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 3%
@@ -137,4 +137,4 @@ ht-degree: 3%
 
 有关本文的回顾和实施重新参与策略的实时演示，请观看我们的 [网络研讨会](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-在 [客户成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 中心。
+在 [客户成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 中心。
