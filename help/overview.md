@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: ht
-source-wordcount: '510'
-ht-degree: 100%
+source-git-commit: 9e57d61a520a3f07f41c8367817d9467de3e7570
+workflow-type: tm+mt
+source-wordcount: '483'
+ht-degree: 94%
 
 ---
 
@@ -27,6 +27,14 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
+* **[监控吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *了解如何监控Campaign实例的投放吞吐量和事务型消息延迟。*
+
+* **[短信简介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=zh-Hans)**
+
+   *了解短信的工作方式以及 Adobe Campaign 发送短信的方式。*
+
 * **[短信简介](/help/tutorial-sms/introduction-to-sms.md)**
 
    *了解短信的工作方式以及 Adobe Campaign 发送短信的方式*
@@ -34,14 +42,6 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 * **[针对标准 SMPP 提供商设置短信帐户](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
    *了解如何根据您的 SMPP 提供商调整短信连接器。优化短信设置以处理连接限制，设置最大吞吐量、发送窗口，以及使用 TLS 进行加密。*
-
-* **[根据您的 SMPP 提供商调整短信连接器](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
-
-   *了解如何优化短信设置以处理连接限制，设置最大吞吐量、发送窗口，以及使用 TLS 进行加密。*
-
-* **[最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](/help/strategy/campaign-maximize-email-best-practices.md)**
-
-   *了解如何最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践。了解提高订阅者参与度的策略，并了解电子邮件营销活动的整体成功情况。*
 
 ## 员工精选
 
