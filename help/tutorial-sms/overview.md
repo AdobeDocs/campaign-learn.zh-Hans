@@ -3,10 +3,10 @@ title: 技术教程 - 设置 Adobe Campaign 短信
 description: 了解如何针对 SMTP 提供商配置短信帐户，以及如何对配置执行分析和故障排除。
 feature: SMS
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
-source-git-commit: f16e485d536a6dd68e405a4f1826a0c9c6bf9673
-workflow-type: ht
-source-wordcount: '192'
-ht-degree: 100%
+source-git-commit: 1fc6cbddbfa5e591704d59c494ce7d2f107a444f
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 87%
 
 ---
 
@@ -29,8 +29,8 @@ ht-degree: 100%
 
    *了解如何优化短信设置以处理连接限制，设置最大吞吐量、发送窗口，以及使用 TLS 进行加密。*
 
-* **分析和故障排除**
-即将推出
+* **[SMPP协议深入研究和疑难解答]**(help/tutorial-sms/smpp-deep-dive-and-troubleshooting.md)
+   *了解如何建立SMPP连接，以及SMPP如何通过PDU交换数据。 了解如何对连接进行故障诊断。*
 
 >[!NOTE]
 >
