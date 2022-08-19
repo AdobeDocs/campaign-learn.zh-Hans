@@ -2,10 +2,10 @@
 user-guide-title: 设置 Adobe Campaign 短信
 user-guide-description: 了解如何针对 SMTP 提供商配置短信帐户，Adobe Campaign 如何处理短信，以及如何对配置执行分析和排除故障。 
 breadcrumb-title: 设置短信
-source-git-commit: f20c47d0b3f260d19c1c938f3b8f1d521a0f069e
+source-git-commit: 2c285a9e5f2b5e48adbb5272f0c95bcd7d2ad052
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 83%
+source-wordcount: '89'
+ht-degree: 80%
 
 ---
 
@@ -20,4 +20,3 @@ ht-degree: 83%
 + 返回Tutorials {#campaign-tutorials}
    + [Adobe Campaign V8 教程](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=en)
    + [Adobe Campaign V7 教程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-   + [Adobe Campaign Standard 教程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en)
