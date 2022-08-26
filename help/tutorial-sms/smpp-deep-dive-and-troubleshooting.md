@@ -1,21 +1,21 @@
 ---
-title: SMPP协议深入研究和疑难解答
-description: 了解如何建立SMPP连接，以及SMPP如何通过PDU交换数据。 了解如何对连接进行故障诊断。
+title: SMPP 协议深入研究和故障排除
+description: 了解如何建立 SMPP 连接，以及 SMPP 如何通过 PDU 交换数据。了解如何对连接进行故障排除。
 feature: SMS
 thumbnail: 346489.jpg
 kt: 9739
-source-git-commit: 2e93092e1a433ae57515f08f8a70afa4b85bccf4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: 62c500fd-adb6-481c-a522-2183dd1779a8
+source-git-commit: ea2db5e52d4e1d14485eb64388d9afde9209b6ee
+workflow-type: ht
+source-wordcount: '53'
+ht-degree: 100%
 
 ---
 
-
-# SMPP协议深入研究和疑难解答
+# SMPP 协议深入研究和故障排除
 
 ![适用于 V7 和 V8](../assets/V7-V8-stamp.png)
 
-了解如何建立SMPP连接，以及SMPP如何通过PDU交换数据。 了解如何对连接进行故障诊断。
+了解如何建立 SMPP 连接，以及 SMPP 如何通过 PDU 交换数据。了解如何对连接进行故障排除。
 
 >[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12)
