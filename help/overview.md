@@ -1,29 +1,30 @@
 ---
 title: Adobe Campaign V8 教程 - 概述
-description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
+description: Adobe Campaign提供了跨渠道客户体验设计平台，并提供了可视活动编排、实时交互管理和跨渠道执行的环境。 本用户指南包含了有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
-workflow-type: ht
-source-wordcount: '480'
-ht-degree: 100%
+source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
+workflow-type: tm+mt
+source-wordcount: '464'
+ht-degree: 79%
 
 ---
 
 # Adobe Campaign V8 教程 - 概述
 
-Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign V8 的众多特性和功能的视频和教程。
+Adobe Campaign提供了跨渠道客户体验设计平台，并提供了可视活动编排、实时交互管理和跨渠道执行的环境。 本用户指南包含了有关 Adobe Campaign V8 的众多特性和功能的视频和教程。
 
 >[!INFO]
 > 您是否有疑问？您想与同行分享您的经验或交流想法吗？或者，您是否对 Adobe 团队的学习内容有任何反馈意见？在 [Adobe Campaign 学习社区的主题帖](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入对话！
 
 >[!NOTE]
-> 当前，Campaign v8 仅作为托管云服务提供，不能部署在内部部署或混合环境中。从现有 Campaign Classic v7 环境进行迁移的功能尚不可用。
->关于两个版本之间差异的更多信息，请参阅 [Classic v7 到 V8 产品文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=zh-Hans)。另请参阅 [Campaign Classic V7 教程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans)部分以观看说明视频。
+> 当前，Campaign v8 仅作为托管云服务提供，不能部署在内部部署或混合环境中。从现有 Campaign Classic v7 环境进行自动迁移的功能尚不可用。
+>
+>请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) 有关从Classic v7到V8的过渡的更多信息。
 
 ## 新增功能
 
@@ -31,11 +32,11 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
    *了解如何建立 SMPP 连接，以及 SMPP 如何通过 PDU 交换数据。了解如何对连接进行故障排除。*
 
-* **[控制面板 - 监测工作流](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=zh-Hans){target=&quot;_blank&quot;}**
+* **[控制面板 - 监测工作流](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
 
    *了解如何监测工作流的临时存储使用情况，以及在何处配置工作流设置以避免实例上出现数据库或工作流问题。*
 
-* **[控制面板 - 监测吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hans){target=&quot;_blank&quot;}**
+* **[控制面板 - 监测吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
 
    *了解如何监测 Campaign 实例的投放吞吐量和事务性消息延迟。*
 
