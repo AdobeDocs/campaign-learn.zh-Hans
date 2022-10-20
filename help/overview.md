@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
+source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
 workflow-type: ht
-source-wordcount: '464'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,8 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 >
 >请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=zh-Hans)以了解有关从 Classic v7 过渡到 V8 的更多信息。
 
+<div id="whats-new-section">
+
 ## 新增功能
 
 * **[SMPP 协议深入研究和故障排除](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=zh-Hans)**
@@ -39,6 +41,17 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 * **[控制面板 - 监测吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hans){target=&quot;_blank&quot;}**
 
    *了解如何监测 Campaign 实例的投放吞吐量和事务性消息延迟。*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## 员工精选
 
@@ -127,5 +140,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
   </td>
 </tr>
 </table>
+
+</div>
 
 请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=zh-Hans)，了解有关此功能的更多详细信息。
