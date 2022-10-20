@@ -6,15 +6,14 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-recommendations: noDisplay, noCatalog
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '0'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# Adobe Campaign V8 教程 - 概述
+# Adobe Campaign V8教程
 
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign V8 的众多特性和功能的视频和教程。
 
@@ -53,7 +52,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 <div id="staff-picks-section">
 
-## 员工精选
+## 员工挑选
 
 <table>
 <tr>
