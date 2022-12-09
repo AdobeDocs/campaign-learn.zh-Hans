@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 source-git-commit: 411342d146310bf982d280d3757d7797f645bf17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '424'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -75,7 +75,7 @@ ht-degree: 98%
       + [为营销活动配置批准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
       + [为投放配置批准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [在工作流中创建批准活动](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
-   + [向同行学习 — 工作流最佳实践](/help/process-management/workflow-best-practices-for-marketers.md)
+   + [向同行学习 - 工作流最佳实践](/help/process-management/workflow-best-practices-for-marketers.md)
 + 数据管理 {#data-management}
    + [使用工作流进行数据管理的基础知识](/help/data-management/data-management-fundamentals.md)
    + [更改数据源](/help/data-management/change-data-source.md)
