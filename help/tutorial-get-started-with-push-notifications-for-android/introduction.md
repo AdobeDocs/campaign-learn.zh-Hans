@@ -1,6 +1,6 @@
 ---
 title: Android 推送通知入门 - 简介
-description: '本教程将指导您完成从 Adobe Campaign 发送推送通知以及在 Android™ 应用程序中接收这些通知所涉及的步骤。 '
+description: 本教程将指导您完成从 Adobe Campaign 发送推送通知以及在 Android™ 应用程序中接收这些通知所涉及的步骤。
 feature: Push
 kt: 6438
 doc-type: article
@@ -10,7 +10,7 @@ role: Admin, Developer
 level: Experienced
 recommendations: noCatalog
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '317'
 ht-degree: 100%
@@ -37,7 +37,7 @@ ht-degree: 100%
 
    必须在 [!DNL Campaign] 实例上安装 [!DNL Mobile App channel] 软件包。以下视频介绍如何检查是否在实例上安装了 [!DNL Mobile App channel]，如果未安装，则介绍如何安装。
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
 
 ## 教程概述
 
