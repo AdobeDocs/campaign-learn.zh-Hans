@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4338d42f-14e0-48b1-93ff-2155e6ed9f10
-source-git-commit: 2f8a0b548e3b6a8c77d6a7287eaebd4739e3313b
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
@@ -22,4 +22,4 @@ ht-degree: 100%
 了解如何创建营销计划、项目和活动，为活动设置属性，并了解如何使用该计划。
 此视频将指导您完成一项练习，您可以在自己的实例中进行练习。
 
->[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333810?quality=12&learn=on)
