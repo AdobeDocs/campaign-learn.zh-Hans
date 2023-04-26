@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教程
 user-guide-description: 借助 Adobe Campaign，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '434'
 ht-degree: 97%
 
 ---
@@ -41,6 +41,7 @@ ht-degree: 97%
       + [使用条件内容创建多语言新闻稿](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [使用 AMP 定义交互式电子邮件内容](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [配置登陆页面](/help/content-creation/configure-landingpages.md)
+   + [创建调查](/help/content-creation/create-a-survey.md)
 + 发送消息{#sending-messages}
    + 电子邮件{#email}
       + [发送并确认电子邮件投放验证](/help/send-messages/email/send-and-validate-proofs.md)
