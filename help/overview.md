@@ -7,8 +7,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: ht
-source-wordcount: '463'
+workflow-type: tm+mt
+source-wordcount: '459'
 ht-degree: 100%
 
 ---
@@ -33,11 +33,11 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
    *了解如何建立 SMPP 连接，以及 SMPP 如何通过 PDU 交换数据。了解如何对连接进行故障排除。*
 
-* **[控制面板 - 监测工作流](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hans){target=&quot;_blank&quot;}**
+* **[控制面板 - 监测工作流](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hans){target="_blank"}**
 
    *了解如何监测工作流的临时存储使用情况，以及在何处配置工作流设置以避免实例上出现数据库或工作流问题。*
 
-* **[控制面板 - 监测吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hans){target=&quot;_blank&quot;}**
+* **[控制面板 - 监测吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hans){target="_blank"}**
 
    *了解如何监测 Campaign 实例的投放吞吐量和事务性消息延迟。*
 
