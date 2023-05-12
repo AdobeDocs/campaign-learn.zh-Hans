@@ -1,5 +1,5 @@
 ---
-title: 创建定期和连续的电子邮件投放
+title: 创建定期投放和连续电子邮件投放
 description: 了解如何设置循环和连续投放，并了解两种方法之间的差异。
 feature: Workflows
 kt: 7982
@@ -11,13 +11,13 @@ role: User
 level: Beginner
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '232'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
-# 创建定期和连续的电子邮件投放
+# 创建定期投放和连续电子邮件投放
 
 本教程介绍了如何设置循环和连续投放，以及这两种方法之间的差异。
 
