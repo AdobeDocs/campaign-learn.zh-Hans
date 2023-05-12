@@ -1,6 +1,6 @@
 ---
 title: 创建调查
-description: 了解如何在Adobe Campaign Classic中创建调查。
+description: 了解如何在 Adobe Campaign Classic 中创建调查。
 feature: Surveys
 role: User
 level: Beginner
@@ -10,17 +10,17 @@ jira: KT-11925
 thumbnail: 3415810.jpeg
 exl-id: 13813651-0a6f-40b6-9ea3-61f752715ea0
 source-git-commit: 9b70faae5d3375959579fc42e296804b62af4542
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 创建调查
 
-了解如何在Adobe Campaign Classic中创建调查。
+了解如何在 Adobe Campaign Classic 中创建调查。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on)
 
 >[!NOTE]
->该视频在Campaign ClassicV7 UI中进行记录，但对于Campaign V8也有效。
+>该视频在 Campaign Classic V7 UI 中录制，但也适用于 Campaign V8。
