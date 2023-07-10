@@ -3,11 +3,11 @@ title: 根据您的 SMPP 提供商调整短信连接器
 description: 了解如何优化短信设置以处理连接限制，设置最大吞吐量、发送窗口，以及使用 TLS 进行加密。
 feature: SMS
 thumbnail: 343622.jpg
-kt: 9741
+jira: KT-9741
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: e84d43a8-6553-4657-9383-5ea91867e811
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
