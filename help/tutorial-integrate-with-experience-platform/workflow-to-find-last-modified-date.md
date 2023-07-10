@@ -2,7 +2,7 @@
 title: 创建导出工作流（第 1 部分） - 查找收件人列表的上次修改日期
 description: 在“创建导出工作流”教程的第一部分中，了解如何创建工作流，以查找从 Experience Platform 区段创建的收件人列表的上次修改日期。
 feature: Data Import/Export, Workflows
-kt: 8162
+jira: KT-8162
 thumbnail: 336387.jpg
 doc-type: feature video
 activity: setup
@@ -10,8 +10,8 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 
