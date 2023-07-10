@@ -2,7 +2,7 @@
 title: LoyaltyOne 为营销人员提供的 5 大工作流最佳实践
 description: 学习并应用 LoyaltyOne 营销副总监 Adam Wilson 为营销人员提供的五大基本工作流最佳实践。
 feature: Workflows
-kt: 11423
+jira: KT-11423
 thumbnail: 3410837.jpg
 doc-type: feature video
 activity: use
@@ -11,8 +11,8 @@ role: User
 level: Beginner
 last-substantial-update: 2022-11-03T00:00:00Z
 exl-id: 9b52c0a8-48da-4b88-8b95-fd0fc47b06b5
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '69'
 ht-degree: 100%
 
