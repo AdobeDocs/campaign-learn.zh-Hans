@@ -2,7 +2,7 @@
 title: 创建导出工作流（第 2 部分）- 提取、格式化数据并将其保存到外部帐户
 description: 在“创建导出工作流”教程的第二部分中，您将了解如何设置导出数据的格式，以及如何将数据保存到外部帐户。
 feature: Data Import/Export, Workflows
-kt: 8160
+jira: KT-8160
 thumbnail: 336391.jpg
 doc-type: feature video
 activity: setup
@@ -10,8 +10,8 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
