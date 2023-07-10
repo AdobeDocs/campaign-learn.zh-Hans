@@ -2,7 +2,7 @@
 title: 创建和管理用户档案
 description: 了解如何访问用户档案数据，创建用户档案，以及对创建的内容进行排序和筛选，以便更轻松地使用功能。您还将了解如何遵守《通用数据保护条例》(GDPR) 和《加州消费者隐私法案》(CCPA)。
 feature: Profiles
-kt: 7843
+jira: KT-7843
 thumbnail: 334111.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 4d50e834-5fca-4974-a0e2-081bd0aada8a
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
