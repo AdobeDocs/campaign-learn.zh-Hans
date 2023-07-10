@@ -2,7 +2,7 @@
 title: 配置动态内容
 description: 了解不同类型的动态内容，并了解如何创建个性化块和条件语句并将它们应用到投放中。
 feature: Dynamic Content, Personalization, Email
-kt: 7789
+jira: KT-7789
 thumbnail: 335734.jpg
 doc-type: feature video
 activity: use
@@ -10,8 +10,8 @@ team: TM
 role: User
 level: Beginner
 exl-id: efe43a2a-4e47-4054-9e41-23d06a72fe4b
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
