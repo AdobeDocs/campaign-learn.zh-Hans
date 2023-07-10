@@ -3,11 +3,11 @@ title: 针对标准 SMPP 提供商设置短信帐户
 description: 了解如何使用 Adobe Campaign 设置 SMPP 帐户，如何分析短信投放结果，以及根据 SMPP 提供商的规范自定义 SR 处理。 
 feature: SMS
 thumbnail: 343607.jpg
-kt: 9742
+jira: KT-9742
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: c057d743-ca6a-44c7-a93a-d6652dba8e7b
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
 source-wordcount: '115'
 ht-degree: 100%
 
