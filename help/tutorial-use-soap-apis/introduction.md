@@ -2,15 +2,15 @@
 title: 在工作流中使用 SOAP API - 简介
 description: 了解如何使用 Adobe Campaign Soap API 并根据通过 API 收到的数据创建高级投放工作流。
 feature: API
-kt: 7772
+jira: KT-7772
 thumbnail: 336639.jpg
 role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: ad2e46b7-d5d1-4530-b126-62b8446d7e31
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
-workflow-type: tm+mt
-source-wordcount: '66'
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
