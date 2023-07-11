@@ -2,15 +2,16 @@
 title: 营销人员借助 Adobe Campaign 取得成功的十大最佳实践
 description: 了解十大最佳实践，它们有助于使用 Adobe Campaign 的从业人员解锁并加快数字消费者转型，为其客户提供更好的体验。
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11778
 last-substantial-update: 2023-01-30T00:00:00Z
 exl-id: a4191cfb-991a-4cd5-97b5-c24c6c93566b
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+source-git-commit: 2cf7b12ea62026186255b08c4035d0f4bdac103d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1279'
+ht-degree: 100%
 
 ---
 
