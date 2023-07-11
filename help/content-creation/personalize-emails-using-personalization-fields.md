@@ -1,7 +1,7 @@
 ---
 title: 使用个性化字段对电子邮件进行个性化定制
 description: 了解如何在主题行中添加个性化字段，以及如何添加电子邮件投放的内容。
-feature: Dynamic Content
+feature: Personalization, Email
 jira: KT-7942
 thumbnail: 24925.jpg
 doc-type: feature video
@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+source-git-commit: 81f3ae29afbd3d07eaf959798370702ef91f2cd5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
