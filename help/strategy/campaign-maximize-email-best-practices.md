@@ -2,8 +2,11 @@
 title: 最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践
 description: 了解如何最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践。了解提高订阅者参与度的策略，并了解电子邮件营销活动的整体成功情况。
 solution: Campaign
+role: User
+level: Beginner
+feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: d00b35a185844d8f2c1d046609c4d4839a24dda2
+source-git-commit: 6ff175aacef090fa81cb97243bf3ceb0bf2914b4
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 3%
