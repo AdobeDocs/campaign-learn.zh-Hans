@@ -1,7 +1,7 @@
 ---
 title: 在 Adobe Experience Platform 中创建活动日志模式和数据集
 description: 了解如何在 Adobe Experience Platform 中创建可用于将营销活动日志数据摄取到 Platform 的模式和数据集。
-feature: Data Import/Export, Data Management
+feature: Data Management
 jira: KT-8161
 thumbnail: 336903.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 100%
 
 ---
 
