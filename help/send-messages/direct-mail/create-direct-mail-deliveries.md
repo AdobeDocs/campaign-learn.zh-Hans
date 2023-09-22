@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 9caa11fc-7a37-4036-8e14-c19f736c7efb
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 100%
+source-wordcount: '41'
+ht-degree: 95%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解[!UICONTROL 直邮]在 [!UICONTROL Adobe Campaign] 中的工作方式，并了解如何创建、设置和执行[!UICONTROL 直邮]投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on){transcript=true}

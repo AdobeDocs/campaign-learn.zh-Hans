@@ -9,10 +9,10 @@ activity: use
 role: User
 level: Beginner
 exl-id: d72a01e2-fcf2-4ca4-83eb-5aeed79dd2bc
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '56'
+ht-degree: 96%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 如果营销活动工作流中的所有投放都设定同一组审阅人，则应在营销活动级别设置批准。
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on){transcript=true}

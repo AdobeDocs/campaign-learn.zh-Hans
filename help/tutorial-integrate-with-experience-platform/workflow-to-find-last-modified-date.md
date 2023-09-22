@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
-source-git-commit: a6b4e7f12c6565bcef644705b23f96803c5b6f85
-workflow-type: ht
-source-wordcount: '120'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 98%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 在“创建导出工作流”教程的第一部分中，了解如何创建工作流，以查找从 Experience Platform 区段创建的收件人列表的上次修改日期。
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
 
 ## 资产
 
