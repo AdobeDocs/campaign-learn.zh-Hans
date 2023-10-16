@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 96%
 * 类型
 * 发件人和回复地址
 * 基本的个性化块
-* 镜像页面和退订的链接 链接
+* 镜像页面和退订的链接链接
 * 内容、公司徽标或签名
 * 其他投放属性，如资源有效性、批次数量…
 
