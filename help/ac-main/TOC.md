@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教程
-user-guide-description: Adobe Campaign v8的视频和教程。
-breadcrumb-title: Campaign v8Tutorials
+user-guide-description: Adobe Campaign v8 视频和教程。
+breadcrumb-title: Campaign v8 教程
 auto-video-transcripts: true
 source-git-commit: ddcd89a61daeb2195d23d28d72e4e45b10af6938
 workflow-type: tm+mt
 source-wordcount: '379'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
