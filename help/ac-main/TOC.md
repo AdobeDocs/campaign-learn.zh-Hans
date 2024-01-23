@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Adobe Campaign 教程
-user-guide-description: 了解如何使用Adobe Campaign V8客户端控制台的特性和功能。
-breadcrumb-title: 客户端控制台 — Tutorials
+user-guide-description: 了解如何使用 Adobe Campaign V8 客户端控制台的特性和功能。
+breadcrumb-title: 客户端控制台 - 教程
 auto-video-transcripts: true
 source-git-commit: cadb9deda9b442d1c241d432ef9ce095e57806f6
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
