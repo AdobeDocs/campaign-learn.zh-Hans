@@ -1,19 +1,19 @@
 ---
-title: Adobe Campaign V8客户端控制台Tutorials
+title: Adobe Campaign V8客户端控制台教程
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关Adobe Campaign V8客户端控制台的众多特性和功能的视频和教程。
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 162004a7d92a649600a4e6bb42e306e92b1985cf
+source-git-commit: 9e502bab7f860db031e69efa486864bc5825b159
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 76%
 
 ---
 
-# Adobe Campaign v8客户端控制台Tutorials
+# Adobe Campaign v8客户端控制台教程
 
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关Adobe Campaign V8客户端控制台的众多特性和功能的视频和教程。
 
