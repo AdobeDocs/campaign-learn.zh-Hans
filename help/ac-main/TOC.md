@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 了解如何使用 Adobe Campaign V8 客户端控制台的特性和功能。
 breadcrumb-title: 客户端控制台 - 教程
 auto-video-transcripts: true
-source-git-commit: cadb9deda9b442d1c241d432ef9ce095e57806f6
+source-git-commit: 096ea99b585d4430ed5c588d910e7c6614f7fc31
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 100%
+source-wordcount: '394'
+ht-degree: 98%
 
 ---
 
@@ -105,3 +105,4 @@ ht-degree: 100%
    + [营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
    + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](/help/strategy/campaign-maximize-email-best-practices.md)
    + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
++ [Adobe Campaign Web用户界面教程](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
