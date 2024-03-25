@@ -6,16 +6,16 @@ user-guide-description: 了解如何使用 Adobe Campaign V8 客户端控制台�
 breadcrumb-title: 客户端控制台 - 教程
 auto-video-transcripts: true
 source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '399'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Campaign v8客户端控制台Tutorials {#tutorials}
+# Adobe Campaign v8 客户端控制台教程 {#tutorials}
 
-+ [Campaign v8客户端控制台Tutorials](/help/overview.md)
++ [Campaign v8 客户端控制台教程](/help/overview.md)
 + [Campaign v8 的关键功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hans)
 + 开始使用{#getting-started}
    + [Adobe Campaign 简介](/help/get-started/introduction-to-adobe-campaign.md)
@@ -105,4 +105,4 @@ ht-degree: 95%
    + [营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
    + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](/help/strategy/campaign-maximize-email-best-practices.md)
    + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
-+ [Adobe Campaign Web用户界面教程](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
++ [Adobe Campaign Web 用户界面教程](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=zh-Hans)
