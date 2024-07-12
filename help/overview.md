@@ -6,7 +6,7 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
-source-git-commit: 05edf80a541e57e0f3e66391a0da9993b8c80cb2
+source-git-commit: 5c1d1d039b331d031f33e55c1202632dab1ad2a7
 workflow-type: ht
 source-wordcount: '368'
 ht-degree: 100%
@@ -29,6 +29,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，支持可视化的�
 > 当前，Campaign v8 仅作为托管云服务提供，不能部署在内部部署或混合环境中。从现有 Campaign Classic v7 环境进行自动迁移的功能尚不可用。
 >
 >请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=zh-Hans)，了解有关从 Classic v7 过渡到 V8 的更多信息。
+
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
