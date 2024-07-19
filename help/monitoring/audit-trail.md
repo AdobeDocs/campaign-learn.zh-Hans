@@ -11,15 +11,15 @@ role: Admin
 level: Beginner
 exl-id: ee4c6b70-3998-4b7b-bf12-13d33c984344
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '103'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 66%
 
 ---
 
 # 审核记录
 
-[!UICONTROL 审核记录]可实时捕获在 Adobe Campaign 内发生的操作和事件的全面列表。[!UICONTROL 审核记录]功能有一种访问数据历史的自助方式，可帮助回答以下问题：
+[!UICONTROL Audit Trail]可实时捕获在Adobe Campaign内发生的操作和事件的全面列表。[!UICONTROL Audit Trail]包括一种访问数据历史的自助方式，可帮助回答以下问题：
 
 * 对象发生了什么？
 * 谁最后修改了它以及何时？

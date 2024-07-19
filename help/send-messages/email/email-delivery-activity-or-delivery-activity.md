@@ -7,16 +7,16 @@ doc-type: feature video
 activity: use
 team: TM
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
-source-wordcount: '63'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '61'
+ht-degree: 88%
 
 ---
 
 
 # 电子邮件投放活动与投放活动对比
 
-[!UICONTROL 投放类型活动]允许您创建投放操作。它可以使用输入元素来构建。
+[!UICONTROL Delivery-type activity]允许您创建投放操作。 它可以使用输入元素来构建。
 
 此视频介绍了如何部署电子邮件投放模板。它解释了电子邮件投放与投放工作流之间的区别。
 
