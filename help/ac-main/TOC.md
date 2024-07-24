@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 了解如何使用 Adobe Campaign V8 客户端控制台的特性和功能。
 breadcrumb-title: 客户端控制台 - 教程
 auto-video-transcripts: true
-source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
+source-git-commit: 1a4c03a96bb1002cf4e936e8d413af3ac1957252
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
@@ -49,6 +49,8 @@ ht-degree: 100%
       + [使用对照组](/help/send-messages/email/use-control-groups.md)
       + [电子邮件投放问题疑难解答](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [设计可投放的电子邮件](/help/send-messages/email/design-emails-for-deliverability.md)
+      + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](/help/strategy/campaign-maximize-email-best-practices.md)
+      + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
    + 短信{#sms}
       + [创建短信投放。](/help/send-messages/mobile/create-an-sms-delivery.md)
    + 推送{#push}
@@ -103,6 +105,4 @@ ht-degree: 100%
    + [设置 Adobe Campaign 短信](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hans)
 + 战略与思想领导{#strategy}
    + [营销人员借助 Adobe Campaign 取得成功的十大最佳实践](/help/strategy/10-best-practices-for-marketers.md)
-   + [最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
 + [Adobe Campaign Web 用户界面教程](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=zh-Hans)
