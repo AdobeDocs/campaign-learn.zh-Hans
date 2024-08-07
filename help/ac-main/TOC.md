@@ -6,9 +6,9 @@ user-guide-description: 了解如何使用 Adobe Campaign V8 客户端控制台�
 breadcrumb-title: 客户端控制台 - 教程
 auto-video-transcripts: true
 source-git-commit: ebca0bb940fbcd5b8e3505d30f1e4caa339853bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 97%
 + [Campaign v8 的关键功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hans)
 + 开始使用{#getting-started}
    + [Adobe Campaign 简介](/help/get-started/introduction-to-adobe-campaign.md)
-   + [从Campaign Standard迁移后，开始使用Adobe Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
+   + [从 Campaign Standard 迁移后开始使用 Adobe Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=zh-Hans)
    + [安装和设置 Adobe Campaign 客户端控制台](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [浏览 Adobe Campaign 用户界面](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [管理营销活动](/help/get-started/manage-marketing-campaigns.md)
