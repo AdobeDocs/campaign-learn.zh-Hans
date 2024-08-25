@@ -6,7 +6,7 @@ user-guide-description: 了解如何使用 Adobe Campaign V8 客户端控制台�
 breadcrumb-title: 客户端控制台 - 教程
 auto-video-transcripts: true
 source-git-commit: ebca0bb940fbcd5b8e3505d30f1e4caa339853bf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 100%
 

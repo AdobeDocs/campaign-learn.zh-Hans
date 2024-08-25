@@ -6,8 +6,8 @@ level: Beginner, Experienced
 jira: KT-15787
 source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 18%
+source-wordcount: '290'
+ht-degree: 22%
 
 ---
 
@@ -35,7 +35,7 @@ Adobe Campaign允许您定义和管理分配给用户的权限：
 
 * 访问特定功能
 * 访问特定数据
-* 访问某些操作（创建、修改、删除）
+* Access 对某些操作（创建、修改、删除）
 
   有关详细信息，请参阅[管理用户权限](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/admin/permissions/manage-permissions){target="_blank"}。
 
