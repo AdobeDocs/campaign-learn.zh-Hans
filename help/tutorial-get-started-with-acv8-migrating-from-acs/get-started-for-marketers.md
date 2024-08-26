@@ -4,9 +4,9 @@ description: 本教程概述了Campaign v8的主要功能。 它适用于从Camp
 role: User
 level: Beginner, Experienced
 jira: KT-15788
-source-git-commit: 0dfe6ceee85def2f1e6daed9c7f6b87b6c453739
+source-git-commit: 93a68053823fe4aefbd6a755b957b4eea8d6a163
 workflow-type: tm+mt
-source-wordcount: '863'
+source-wordcount: '849'
 ht-degree: 22%
 
 ---
@@ -29,8 +29,6 @@ ht-degree: 22%
 2. [浏览和筛选列表](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/list-filters)
 
 ## 查找帮助和指导
-
-使用[AI支持的上下文帮助](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/using-ai){target="_blank"}访问UI中的产品文档。
 
 [Adobe Campaign Web用户界面文档](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/campaign-web-home)
 
