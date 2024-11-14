@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign 教程
 user-guide-description: 了解如何使用 Adobe Campaign V8 客户端控制台的特性和功能。
 breadcrumb-title: 客户端控制台 - 教程
 auto-video-transcripts: true
-source-git-commit: e10b192da04774d44652e6771c17b6d823a74636
+source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 98%
+source-wordcount: '408'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 + [Campaign v8 的关键功能](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=zh-Hans)
 + 开始使用{#getting-started}
    + [Adobe Campaign 简介](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Adobe Campaign v8采用指南](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Adobe Campaign v8 采用指南](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/acs-to-ac/home)
    + [安装和设置 Adobe Campaign 客户端控制台](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [浏览 Adobe Campaign 用户界面](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [管理营销活动](/help/get-started/manage-marketing-campaigns.md)
@@ -46,7 +46,7 @@ ht-degree: 98%
    + [创建调查](/help/content-creation/create-a-survey.md)
 + 发送消息{#sending-messages}
    + 电子邮件{#email}
-      + [发送并确认电子邮件投放验证](/help/send-messages/email/send-and-validate-proofs.md)
+      + [发送并确认电子邮件投放校样](/help/send-messages/email/send-and-validate-proofs.md)
       + [使用对照组](/help/send-messages/email/use-control-groups.md)
       + [电子邮件投放问题疑难解答](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [设计可投放的电子邮件](/help/send-messages/email/design-emails-for-deliverability.md)
@@ -102,6 +102,7 @@ ht-degree: 98%
    + [工作流热图](/help/monitoring/workflow-heatmap.md)
    + [审核记录](/help/monitoring/audit-trail.md)
 + 管理 {#administration}
+   + [管理用户权限](/help/administration/manage-user-permissions.md)
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hans){target="_blank"}
    + [设置 Adobe Campaign 短信](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hans)
 + 战略与思想领导{#strategy}
