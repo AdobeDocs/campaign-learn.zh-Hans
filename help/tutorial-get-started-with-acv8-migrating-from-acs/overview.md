@@ -19,7 +19,7 @@ ht-degree: 2%
 
 本参考指南专为从Campaign Standard迁移到Campaign v8的用户设计。 它可帮助您熟悉新的Campaign实例，并引导您完成开始使用您的角色所需的步骤。
 
-1. 首先了解Campaign v8的关键功能和术语。 查看[Campaign Standard过渡到Campaign v8指南](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)
+1. 首先了解Campaign v8的关键功能和术语。 查看[Campaign Standard过渡到Campaign v8指南](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/start/acs-migration)
 
 2. 接下来，选择下面的角色，访问适用于您的角色的相关参考指南：
 
