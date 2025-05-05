@@ -37,7 +37,7 @@ ht-degree: 100%
 
    必须在 [!DNL Campaign] 实例上安装 [!DNL Mobile App channel] 软件包。以下视频介绍如何检查是否在实例上安装了 [!DNL Mobile App channel]，如果未安装，应如何安装。
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340421?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 教程概述
 

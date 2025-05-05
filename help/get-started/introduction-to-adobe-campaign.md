@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解 Adobe Campaign 如何与 Adobe 数字体验产品组合相融合，并了解 Adobe Campaign 的主要特性和功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/335365?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453322?quality=12&learn=on&captions=chi_hans){transcript=true}

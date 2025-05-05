@@ -21,5 +21,5 @@ ht-degree: 100%
 
 以下视频将介绍您将学习的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344271?quality=12&learn=on&captions=chi_hans){transcript=true}
 

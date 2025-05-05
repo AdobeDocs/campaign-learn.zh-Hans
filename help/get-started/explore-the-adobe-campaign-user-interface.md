@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解 Adobe Campaign V8 用户界面以及如何导航主要功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/334496?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426444?quality=12&learn=on&captions=chi_hans){transcript=true}

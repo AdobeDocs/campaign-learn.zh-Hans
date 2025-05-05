@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解短信是什么、短信服务提供商的角色，以及 Adobe Campaign 如何连接到服务提供商。了解哪些信息是通过服务提供商传递的，以及可获取哪些技术说明。
 
->[!VIDEO](https://video.tv.adobe.com/v/340957?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416806?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 请参阅[短信连接器协议和设置](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=zh-Hans#sending-messages)，进一步了解 SMPP 协议、有关外部帐户设置的详细信息或最常见问题的疑难解答。

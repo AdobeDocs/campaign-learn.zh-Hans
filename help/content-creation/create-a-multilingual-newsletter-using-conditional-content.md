@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何在多语言新闻稿的示例中向投放添加条件内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446721?quality=12&learn=on&captions=chi_hans){transcript=true}

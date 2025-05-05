@@ -27,6 +27,6 @@ ht-degree: 65%
 
 了解如何访问审核记录日志以及可以配置的设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444244?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 有关详细信息，请参阅[审核记录文档](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=zh-Hans)。

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何使用 Adobe Campaign 设置 SMPP 帐户，如何分析短信投放结果，以及根据 SMPP 提供商的规范自定义 SR 处理。
 
->[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454250?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 请参阅[短信连接器协议和设置](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=zh-Hans#sending-messages)，进一步了解 SMPP 协议、有关外部帐户设置的详细信息或最常见问题的疑难解答。

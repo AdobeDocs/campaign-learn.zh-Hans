@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何使用 Experience Platform 中的源连接器摄取数据，以使用导出的活动日志更新用户档案数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452035?quality=12&learn=on&captions=chi_hans){transcript=true}

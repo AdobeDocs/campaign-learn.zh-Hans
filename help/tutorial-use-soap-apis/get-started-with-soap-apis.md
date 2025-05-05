@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解如何使用 Postman 生成会话令牌以用于 API 请求。
 
->[!VIDEO](https://video.tv.adobe.com/v/336536?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449485?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 要观看的下一个视频：[步骤 2 - 使用 SOAP API 请求添加收件人和文章](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)

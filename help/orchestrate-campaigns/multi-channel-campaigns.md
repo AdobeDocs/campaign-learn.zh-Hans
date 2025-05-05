@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何根据收件人的首选渠道，使用电子邮件、短信和直邮投放创建多渠道营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452513?quality=12&learn=on&captions=chi_hans){transcript=true}

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 了解如何使用 Adobe Campaign Soap API 并根据通过 API 收到的数据创建高级投放工作流。
 
->[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3438345?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 要观看的下一个视频：[步骤 1：SOAP API 入门](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)

@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何设置批准和营销活动，以及如何区分投放和工作流批准。
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3429379?quality=12&learn=on&captions=chi_hans){transcript=true}

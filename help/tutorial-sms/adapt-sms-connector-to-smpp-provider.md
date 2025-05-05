@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何根据您的 SMPP 提供商调整短信连接器。优化短信设置以处理连接限制，设置最大吞吐量、发送窗口，以及使用 TLS 进行加密。
 
->[!VIDEO](https://video.tv.adobe.com/v/343622?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453889?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 请参阅[短信连接器协议和设置](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=zh-Hans#sending-messages)，进一步了解 SMPP 协议、有关外部帐户设置的详细信息或最常见问题的疑难解答。

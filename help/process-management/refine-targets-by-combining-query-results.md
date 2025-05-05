@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何通过使用交集或并集活动在工作流中组合查询结果来优化目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3429335?quality=12&learn=on&captions=chi_hans){transcript=true}

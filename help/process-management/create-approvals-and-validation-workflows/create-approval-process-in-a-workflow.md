@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何在工作流中创建批准流程，以便在启动投放之前审核并批准定位选择逻辑。
 
->[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3442044?quality=12&learn=on&captions=chi_hans){transcript=true}

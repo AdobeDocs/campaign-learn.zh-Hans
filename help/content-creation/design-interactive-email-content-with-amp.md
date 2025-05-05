@@ -27,6 +27,6 @@ AMP for Email 是一新型开放源码格式，它使开发人员能够创建动
 
 以下视频介绍如何在 Adobe Campaign 中激活 AMP 并展示其用法。
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33566?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 有关更多详细信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=zh-Hans#about-amp-for-email)。

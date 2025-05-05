@@ -21,7 +21,7 @@ ht-degree: 100%
 
 了解如何配置 [!DNL push] 通知并将其发送给 Android™ 应用程序用户。
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340730?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 **上一步**
 

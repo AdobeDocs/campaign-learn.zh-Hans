@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解如何使用 Campaign SOAP API 创建新收件人。了解如何使用 SOAP API 创建自定义文章数据模式并提交文章。
 
->[!VIDEO](https://video.tv.adobe.com/v/336386?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453542?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 要观看的下一个视频：[步骤 3 - 通过 SOAP API 订阅用户](/help/tutorial-use-soap-apis/subscribe-users-via-soap-api.md)

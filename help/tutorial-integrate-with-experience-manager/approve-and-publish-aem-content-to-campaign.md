@@ -21,5 +21,5 @@ ht-degree: 100%
 
 了解如何在 Experience Manager 中创建新闻稿，以及如何批准新闻稿并将其发布到 Campaign。
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447581?quality=12&learn=on&captions=chi_hans){transcript=true}
 

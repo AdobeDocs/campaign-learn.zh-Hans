@@ -22,4 +22,4 @@ ht-degree: 100%
 
 如果投放中的批准步骤与审阅人不同，则在投放级别设置批准。
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437658?quality=12&learn=on&captions=chi_hans){transcript=true}

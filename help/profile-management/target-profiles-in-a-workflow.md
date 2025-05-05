@@ -22,7 +22,7 @@ ht-degree: 100%
 
 了解活动工作流的使用、如何创建工作流以及使用筛选条件在工作流中定位用户档案。
 
->[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453586?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 观看下一个教程
 

@@ -20,7 +20,7 @@ ht-degree: 100%
 
 了解如何将可投放性最佳实践应用于您的电子邮件投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452013?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 ## 其他资源
 

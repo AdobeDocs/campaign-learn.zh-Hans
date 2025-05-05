@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解 Adobe Campaign V8 使用哪些数据库，为何要复制数据，要复制哪些数据以及复制过程的工作方式。
 
->[!VIDEO](https://video.tv.adobe.com/v/334460?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416863?quality=12&learn=on&captions=chi_hans){transcript=true}

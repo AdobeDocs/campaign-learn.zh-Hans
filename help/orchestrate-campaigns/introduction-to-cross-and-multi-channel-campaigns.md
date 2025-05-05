@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解多渠道和跨渠道营销活动与用例之间的差异。
 
->[!VIDEO](https://video.tv.adobe.com/v/335610?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447208?quality=12&learn=on&captions=chi_hans){transcript=true}

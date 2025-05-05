@@ -22,4 +22,4 @@ ht-degree: 100%
 
 如果营销活动工作流中的所有投放都设定同一组审阅人，则应在营销活动级别设置批准。
 
->[!VIDEO](https://video.tv.adobe.com/v/338826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446518?quality=12&learn=on&captions=chi_hans){transcript=true}

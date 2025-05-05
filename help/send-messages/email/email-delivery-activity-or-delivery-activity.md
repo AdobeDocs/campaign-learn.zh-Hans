@@ -20,4 +20,4 @@ ht-degree: 88%
 
 此视频介绍了如何部署电子邮件投放模板。它解释了电子邮件投放与投放工作流之间的区别。
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27452?quality=12&learn=on&captions=chi_hans){transcript=true}

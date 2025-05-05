@@ -25,4 +25,4 @@ ht-degree: 100%
 
 了解如何创建动态内容块以及如何使用动态内容块将电子邮件投放内容个性化。
 
->[!VIDEO](https://video.tv.adobe.com/v/342088?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449016?quality=12&learn=on&captions=chi_hans){transcript=true}

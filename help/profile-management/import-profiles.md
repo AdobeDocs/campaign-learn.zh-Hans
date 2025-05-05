@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何将用户档案导入 Adobe Campaign。
 
->[!VIDEO](https://video.tv.adobe.com/v/342085?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344564?quality=12&learn=on&captions=chi_hans){transcript=true}

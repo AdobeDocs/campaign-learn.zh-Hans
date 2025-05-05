@@ -24,4 +24,4 @@ Adobe Campaign 包含一个工作流模块，允许您在应用程序服务器�
 
 该视频介绍了如何在 Adobe Campaign 中创建工作流。
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27447?quality=12&learn=on&captions=chi_hans){transcript=true}

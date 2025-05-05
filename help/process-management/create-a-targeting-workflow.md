@@ -24,4 +24,4 @@ Adobe Campaign 使用工作流来执行定位活动、构建活动或执行 Adob
 
 了解如何使用定位工作流定义多个投放目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450198?quality=12&learn=on&captions=chi_hans){transcript=true}

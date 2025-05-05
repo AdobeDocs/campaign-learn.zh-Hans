@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何将数据联接到两个区段，创建文章提醒电子邮件，以及根据从外部 API 收到的数据对其进行个性化设置。我们将继续构建在上一步中创建的工作流：[查询文章和收件人订阅值](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)视频。
 
->[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449574?quality=12&learn=on&captions=chi_hans){transcript=true}

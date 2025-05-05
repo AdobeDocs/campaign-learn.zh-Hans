@@ -18,6 +18,6 @@ ht-degree: 100%
 
 了解如何使用 SOAP API 调用创建新闻稿服务并订阅收件人。
 
->[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446027?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 继续执行：[步骤 4 - 使用工作流创建内容摘要](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)

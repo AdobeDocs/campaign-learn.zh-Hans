@@ -55,7 +55,7 @@ Adobe Campaign允许您定义和管理分配给用户的权限：
 
 了解什么是定位维度和工作表，以及 Adobe Campaign 如何管理不同数据源的数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452604?quality=12&learn=on&captions=chi_hans){transcript=true}
 
 
 ### 创建和扩展架构

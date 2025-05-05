@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解不同类型的动态内容，并了解如何创建个性化块和条件语句并将它们应用到投放中。
 
->[!VIDEO](https://video.tv.adobe.com/v/335734?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452878?quality=12&learn=on&captions=chi_hans){transcript=true}

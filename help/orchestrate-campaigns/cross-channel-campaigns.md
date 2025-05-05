@@ -23,4 +23,4 @@ ht-degree: 100%
 
 了解如何根据客户与首次投放的交互情况，使用电子邮件和直邮投放创建跨渠道营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3429350?quality=12&learn=on&captions=chi_hans){transcript=true}
