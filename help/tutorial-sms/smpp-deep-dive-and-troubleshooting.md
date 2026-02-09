@@ -19,4 +19,4 @@ ht-degree: 92%
 
 了解如何建立 SMPP 连接，以及 SMPP 如何通过 PDU 交换数据。了解如何对连接进行故障排除。
 
->[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453421?captions=chi_hans&quality=12&learn=on){transcript=true}
