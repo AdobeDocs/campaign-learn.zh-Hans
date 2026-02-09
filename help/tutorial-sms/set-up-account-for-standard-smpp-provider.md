@@ -21,4 +21,4 @@ ht-degree: 95%
 
 >[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on){transcript=true}
 
-请参阅[短信连接器协议和设置](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)，进一步了解 SMPP 协议、有关外部帐户设置的详细信息或最常见问题的疑难解答。
+请参阅[短信连接器协议和设置](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)，进一步了解 SMPP 协议、有关外部帐户设置的详细信息或最常见问题的疑难解答。

@@ -33,4 +33,4 @@ ht-degree: 69%
 
 >[!NOTE]
 >
->本教程适用于 Adobe Campaign V7 和 Campaign V8。其他资源可在产品文档中找到：[短信连接器协议和设置](https://experienceleague.adobe.com/en/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)。
+>本教程适用于 Adobe Campaign V7 和 Campaign V8。其他资源可在产品文档中找到：[短信连接器协议和设置](https://experienceleague.adobe.com/zh-hans/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-set-up/sms-protocol)。
