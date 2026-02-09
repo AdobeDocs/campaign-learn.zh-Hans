@@ -23,7 +23,7 @@ ht-degree: 25%
 
 ## 访问和浏览Campaign Web用户界面
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453432?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 1. [发现接口](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/start/user-interface)
 2. [浏览和筛选列表](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/start/list-filters)
@@ -40,13 +40,13 @@ ht-degree: 25%
 
 1. 了解如何使用 Campaign Web 用户界面访问、管理和浏览轮廓。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3448374?captions=chi_hans&quality=12&learn=on){transcript=true}
 
    有关详细信息，请参阅[配置文件入门](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}。
 
 2. 了解如何构建和管理受众、如何为投放选择受众以及定义控制组。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453212?captions=chi_hans&quality=12&learn=on){transcript=true}
 
    有关详细信息，请参阅[受众入门](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}。
 
@@ -180,7 +180,7 @@ ht-degree: 25%
 
 1. 了解工作流的工作方式以及如何创建定位工作流。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453982?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 1. [使用工作流活动](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [工作流的护栏和限制](https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -191,23 +191,23 @@ ht-degree: 25%
 
 了解如何从头开始创建电子邮件投放、定义受众、设计内容、模拟预览并发送校样。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454015?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 1. **设计和定义内容**
 
    了解如何在电子邮件设计器中导航。了解如何从头开始构建和设计电子邮件，如何个性化和测试电子邮件。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453575?captions=chi_hans&quality=12&learn=on){transcript=true}
 
    了解如何通过上传HTML创建电子邮件、如何使其与Email Designer兼容以及如何将其转换为模板。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3447042?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 2. **预览和测试**
 
    了解如何在常用的桌面、移动和基于Web的客户端中预览电子邮件内容和个性化、发送测试投放（验证）并检查电子邮件渲染。
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3450347?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 3. **发送电子邮件并检查日志**
 
