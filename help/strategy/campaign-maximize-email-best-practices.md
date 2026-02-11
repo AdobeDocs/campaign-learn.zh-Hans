@@ -6,9 +6,9 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
+source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
 workflow-type: tm+mt
-source-wordcount: '1480'
+source-wordcount: '1461'
 ht-degree: 0%
 
 ---
@@ -138,7 +138,4 @@ ht-degree: 0%
 
 * **测试和学习** — 良好的测试计划对于确保您的努力取得预期效果很重要。 了解哪些组件有效，哪些组件无效，并相应地进行迭代。
 
-有关本文回顾和实施重新接触策略的实时演示，请观看我们的[网络研讨会](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)。
-
-在[客户成功](https://experienceleague.adobe.com/zh-hans/docs/customer-success/customer-success/overview)中心了解有关战略和思想领导力的更多信息。
-
+在[视角](https://experienceleague.adobe.com/en/perspectives)中心了解更多有关战略和思想领导力的信息。
