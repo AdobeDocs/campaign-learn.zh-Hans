@@ -138,4 +138,4 @@ ht-degree: 0%
 
 * **测试和学习** — 良好的测试计划对于确保您的努力取得预期效果很重要。 了解哪些组件有效，哪些组件无效，并相应地进行迭代。
 
-在[视角](https://experienceleague.adobe.com/en/perspectives)中心了解更多有关战略和思想领导力的信息。
+在[视角](https://experienceleague.adobe.com/zh-hans/perspectives)中心了解更多有关战略和思想领导力的信息。
