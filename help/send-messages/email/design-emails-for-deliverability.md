@@ -10,8 +10,8 @@ role: User
 level: Beginner
 exl-id: dda3ca16-204c-4af8-a9d3-713d14865d61
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '37'
+workflow-type: ht
+source-wordcount: '46'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 了解如何将可投放性最佳实践应用于您的电子邮件投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452013?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/333471?quality=12&learn=on){transcript=true}
 
 ## 其他资源
 

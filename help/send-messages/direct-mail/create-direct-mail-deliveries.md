@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 9caa11fc-7a37-4036-8e14-c19f736c7efb
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '33'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
 # 创建直邮投放
 
-了解[!UICONTROL direct mail]在[!UICONTROL Adobe Campaign]中的工作方式，并了解如何创建、设置和执行[!UICONTROL direct mail]投放。
+理解[!UICONTROL direct mail]在 [!UICONTROL Adobe Campaign] 中的工作原理，并了解如何创建、设置和执行[!UICONTROL direct mail]投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/3414035?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on){transcript=true}

@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
@@ -26,10 +26,10 @@ ht-degree: 92%
 * 类型
 * 发件人和回复地址
 * 基本的个性化块
-* 镜像页面和退订链接的链接
+* 镜像页面链接和退订链接
 * 内容、公司徽标或签名
 * 其他投放属性，如资源有效性、批次数量…
 
 以下视频演示了如何为临时投放配置模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409243?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on){transcript=true}

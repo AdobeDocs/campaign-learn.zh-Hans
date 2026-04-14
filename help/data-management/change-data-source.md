@@ -1,6 +1,6 @@
 ---
 title: 更改数据源
-description: 了解如何使用“更改数据Source活动”来更改工作流工作表的数据源，以便灵活地管理不同数据源（如FDA、FFDA和本地数据库）的数据。
+description: 了解如何使用“更改数据源活动”来更改工作流工作表的数据源，以便灵活地管理不同数据源（如 FDA、FFDA 和本地数据库）的数据。
 feature: Data Management
 jira: KT-8379
 thumbnail: 340064.jpg
@@ -10,14 +10,14 @@ role: Admin, Developer
 level: Beginner
 exl-id: 6e308d06-e384-46e2-9e14-9e3f6c80c386
 source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 # 更改数据源
 
-了解如何使用“更改数据Source活动”来更改工作流工作表的数据源，以便灵活地管理不同数据源（如FDA、FFDA和本地数据库）的数据。
+了解如何使用“更改数据源活动”来更改工作流工作表的数据源，以便灵活地管理不同数据源（如 FDA、FFDA 和本地数据库）的数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449540?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
