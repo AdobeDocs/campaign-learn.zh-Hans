@@ -21,4 +21,4 @@ ht-degree: 100%
 
 理解[!UICONTROL direct mail]在 [!UICONTROL Adobe Campaign] 中的工作原理，并了解如何创建、设置和执行[!UICONTROL direct mail]投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3414035?captions=chi_hans&quality=12&learn=on){transcript=true}

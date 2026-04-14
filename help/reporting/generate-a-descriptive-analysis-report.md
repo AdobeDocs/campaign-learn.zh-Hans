@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何通过工作流生成[!UICONTROL descriptive analysis report]。
 
->[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448839?captions=chi_hans&quality=12&learn=on){transcript=true}

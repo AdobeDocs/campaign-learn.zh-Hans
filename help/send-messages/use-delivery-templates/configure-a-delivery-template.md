@@ -32,4 +32,4 @@ ht-degree: 100%
 
 以下视频演示了如何为临时投放配置模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409243?captions=chi_hans&quality=12&learn=on){transcript=true}

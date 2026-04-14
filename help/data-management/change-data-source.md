@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何使用“更改数据源活动”来更改工作流工作表的数据源，以便灵活地管理不同数据源（如 FDA、FFDA 和本地数据库）的数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449540?captions=chi_hans&quality=12&learn=on){transcript=true}
