@@ -9,9 +9,8 @@ team: PM
 role: Admin
 level: Beginner
 hide: true
-hidefromtoc: true
 exl-id: 1bdfb72b-49e0-4cdd-848a-97648fb1a7bf
-source-git-commit: cd0890e8b368b54b5c5a113c57408985355db110
+source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
@@ -23,4 +22,4 @@ ht-degree: 100%
 
 此视频介绍了如何配置和安装 Adobe Experience Platform Mobile SDK。
 
->[!VIDEO](https://video.tv.adobe.com/v/326583?captions=chi_hans&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on){transcript=true}
