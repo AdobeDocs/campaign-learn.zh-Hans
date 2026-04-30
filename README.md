@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '440'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 # 投稿文章
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ### 次要更改
 
-如果您出于善意而对文章做小幅度更新，请访问文章，并单击文章中的&#x200B;**编辑**&#x200B;链接以转到文章所对应的 GitHub 源。然后，只需使用 GitHub UI 即可进行更新。 有关详细信息，请参阅通用的 [Adobe 文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
+如果您出于善意而对文章做小幅度更新，请访问文章，并单击文章中的&#x200B;**编辑**&#x200B;链接以转到文章所对应的 GitHub 源。 然后，只需使用 GitHub UI 即可进行更新。 有关详细信息，请参阅通用的 [Adobe 文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
 
 您为此存储库中的文档和代码示例提交的小幅度更正或说明受 Adobe 使用条款的约束。
 
@@ -47,7 +47,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ## 如何使用 Markdown 设置主题格式
 
-此存储库中的所有文章均使用 GitHub 风格的 Markdown 格式。如果您不熟悉 Markdown，请参阅：
+此存储库中的所有文章均使用 GitHub 风格的 Markdown 格式。 如果您不熟悉 Markdown，请参阅：
 
 * [Markdown 基础知识](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
 * [可打印的 Markdown 速查表](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
