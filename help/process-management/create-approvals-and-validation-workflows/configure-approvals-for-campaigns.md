@@ -9,17 +9,26 @@ activity: use
 role: User
 level: Intermediate
 exl-id: d72a01e2-fcf2-4ca4-83eb-5aeed79dd2bc
-source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
-workflow-type: ht
-source-wordcount: '54'
+TQID: https://experienceleague.adobe.com/1o5ZfqCuji9DuunzULPE-pzWedJAyZPdhgcUC2YsQFk
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+workflow-type: tm+mt
+source-wordcount: 54
 ht-degree: 100%
 
 ---
 
 # 为营销活动配置批准
 
-了解如何在营销活动级别配置批准和审阅人。 
+了解如何在营销活动级别配置批准和审阅人。  
 
 如果营销活动工作流中的所有投放都设定同一组审阅人，则应在营销活动级别设置批准。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446518?quality=12&learn=on&captions=chi_hans){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446518?captions=chi_hans&quality=12&learn=on){transcript=true}

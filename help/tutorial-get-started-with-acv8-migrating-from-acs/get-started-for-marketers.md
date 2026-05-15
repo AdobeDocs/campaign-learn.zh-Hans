@@ -5,10 +5,26 @@ role: User
 level: Beginner, Experienced
 jira: KT-15788
 exl-id: 0d11eeed-414b-47a1-9c30-41d91a0e5900
-source-git-commit: 06103a19174734f33761f05c19fd080ae5a9ca96
+TQID: https://experienceleague.adobe.com/IPKTwihpRvIqbVyEwKVprAtOLT711jqKdHAScQGnT-U
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+  - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+subfeature_v2:
+  - id: b1fd1501-3105-4d6b-b4d4-9af53126df75
+  - id: c3bf7e1e-1db5-4c72-9293-e2f0b1ab73d0
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '2242'
-ht-degree: 15%
+source-wordcount: 2242
+ht-degree: 16%
 
 ---
 
@@ -48,7 +64,7 @@ ht-degree: 15%
 
 #### 受众
 
-了解如何构建和管理受众、如何为投放选择受众以及定义控制组。
+了解如何构建和管理受众、如何为投放选择受众，以及如何定义对照组。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453212?captions=chi_hans&quality=12&learn=on){transcript=true}
 
@@ -104,7 +120,7 @@ ht-degree: 15%
 
 ### 创建工作流
 
-1. 了解工作流的工作方式以及如何创建定位工作流。
+1. 了解工作流的工作原理，以及如何创建目标选择工作流。
 
    >[!VIDEO](https://video.tv.adobe.com/v/3453982?captions=chi_hans&quality=12&learn=on){transcript=true}
 
@@ -149,8 +165,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/msg/email/monitor/schedule-sending" title="计划投放的发送" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="计划投放的发送"
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/msg/email/monitor/schedule-sending" title="计划发送投放" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="计划发送投放"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -158,7 +174,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/msg/email/monitor/schedule-sending" target="_blank" rel="referrer" title="计划投放的发送">安排发送投放</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/msg/email/monitor/schedule-sending" target="_blank" rel="referrer" title="计划发送投放">安排发送投放</a>
                     </p>
                     <p class="is-size-6">了解如何计划投放</p>
                 </div>
@@ -286,11 +302,11 @@ Adobe Campaign v8支持Android™和iOS推送渠道。 要过渡使用推送渠�
 <p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/landing-pages/lp-templates">
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates">
 <img alt="验证" src="_assets/lp-reporting.jpg">
 </a>
 <div>
-<a href="https://experienceleague.adobe.com/zh-hans/docs/campaign-web/v8/landing-pages/lp-templates"><strong>使用登陆页面模板</strong></a>
+<a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/landing-pages/lp-templates"><strong>使用登陆页面模板</strong></a>
 </div>
 <p>
 </td>

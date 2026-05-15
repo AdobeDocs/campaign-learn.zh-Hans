@@ -1,19 +1,30 @@
 ---
-title: 从Campaign Standard迁移后开始使用Adobe Campaign v8 — 概述
+title: 从Adobe Campaign迁移后，Campaign Standard v8快速入门 — 概述
 description: 这些教程将指导您完成开始使用新的Campaign v8应用程序所需的步骤。
 team: TM
 role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog
-source-git-commit: 60613a5e1d268fa4b1f8ea01696ee034bc1c6002
+exl-id: bb5979f8-4ca0-49f9-a061-2c0d21ef5b67
+TQID: https://experienceleague.adobe.com/r3hYvGkxKSW2jbC6r23lfZzfMhRH-yyBmxoznaYjhPQ
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 2%
+source-wordcount: 180
+ht-degree: 7%
 
 ---
 
-
-# 从Campaign Standard迁移后开始使用Adobe Campaign v8 — 概述
+# 从Adobe Campaign迁移后，Campaign Standard v8快速入门 — 概述
 
 欢迎使用Adobe Campaign v8！
 
