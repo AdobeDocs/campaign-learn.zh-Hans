@@ -30,4 +30,4 @@ ht-degree: 100%
 
 了解 Adobe Campaign 中的内置报告和分析，并了解如何生成投放报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448293?captions=chi_hans&quality=12&learn=on){transcript=true}

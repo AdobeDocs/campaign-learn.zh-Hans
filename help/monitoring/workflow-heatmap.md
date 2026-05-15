@@ -30,4 +30,4 @@ ht-degree: 100%
 
 了解如何监控实例的负载并相应地规划工作流计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/342084?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445407?captions=chi_hans&quality=12&learn=on){transcript=true}

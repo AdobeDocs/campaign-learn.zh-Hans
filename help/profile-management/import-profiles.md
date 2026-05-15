@@ -25,4 +25,4 @@ ht-degree: 100%
 
 了解如何将轮廓导入 Adobe Campaign。
 
->[!VIDEO](https://video.tv.adobe.com/v/342085?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344564?captions=chi_hans&quality=12&learn=on){transcript=true}

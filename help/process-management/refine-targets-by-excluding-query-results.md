@@ -28,4 +28,4 @@ ht-degree: 100%
 
 了解如何通过将标准排除应用于工作流来优化目标。 了解如何创建预定义过滤器和工作流故障诊断。
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452951?captions=chi_hans&quality=12&learn=on){transcript=true}

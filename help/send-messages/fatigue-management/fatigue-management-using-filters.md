@@ -29,4 +29,4 @@ ht-degree: 100%
 疲劳管理控制消息传送的频率和数量，以避免过度招徕收件人。
 了解如何使用过滤器在 Adobe Campaign 中实施疲劳管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444610?captions=chi_hans&quality=12&learn=on){transcript=true}

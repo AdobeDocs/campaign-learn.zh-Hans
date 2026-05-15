@@ -30,4 +30,4 @@ ht-degree: 100%
 
 了解如何执行活动、查看电子邮件投放和投放属性。
 
->[!VIDEO](https://video.tv.adobe.com/v/334908?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452975?captions=chi_hans&quality=12&learn=on){transcript=true}

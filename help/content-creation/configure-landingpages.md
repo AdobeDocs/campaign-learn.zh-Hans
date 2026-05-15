@@ -31,4 +31,4 @@ Adobe Campaign 允许您在其服务器上设计和托管各种登陆页面，�
 
 该视频演示了如何通过创建首选项中心来导航 Adobe Campaign 的 Web 应用程序编辑器。
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450224?captions=chi_hans&quality=12&learn=on){transcript=true}

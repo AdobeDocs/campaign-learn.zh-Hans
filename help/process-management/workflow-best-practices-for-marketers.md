@@ -36,4 +36,4 @@ ht-degree: 100%
 
 工作流是 Adobe Campaign 的一项强大功能，可帮助您更轻松地管理活动和联系客户。 学习并应用 LoyaltyOne 营销副总监 Adam Wilson 为营销人员提供的五大基本工作流最佳做法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448155?captions=chi_hans&quality=12&learn=on){transcript=true}

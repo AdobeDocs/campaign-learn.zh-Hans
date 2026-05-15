@@ -27,7 +27,7 @@ ht-degree: 100%
 
 了解如何在 Campaign 中配置 [!DNL Android™] 服务并创建 [!DNL Android™] 移动应用程序。 此步骤是必需的，这样您能够为推送通知定义目标移动应用程序。
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340731?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 **上一步**
 

@@ -28,4 +28,4 @@ ht-degree: 100%
 
 了解如何设置和管理订阅和锁定订阅者。
 
->[!VIDEO](https://video.tv.adobe.com/v/334305?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426553?captions=chi_hans&quality=12&learn=on){transcript=true}

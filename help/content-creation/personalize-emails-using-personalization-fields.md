@@ -32,4 +32,4 @@ ht-degree: 100%
 
 了解如何在主题行中添加个性化字段，以及如何添加电子邮件投放的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27467?captions=chi_hans&quality=12&learn=on){transcript=true}

@@ -28,4 +28,4 @@ ht-degree: 100%
 
 了解如何为电子邮件投放发送并验证校样。
 
->[!VIDEO](https://video.tv.adobe.com/v/333404?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447009?captions=chi_hans&quality=12&learn=on){transcript=true}

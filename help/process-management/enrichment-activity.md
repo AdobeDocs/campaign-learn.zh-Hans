@@ -29,4 +29,4 @@ ht-degree: 100%
 
 了解如何根据投放日志信息配置扩充活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/342639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452178?captions=chi_hans&quality=12&learn=on){transcript=true}

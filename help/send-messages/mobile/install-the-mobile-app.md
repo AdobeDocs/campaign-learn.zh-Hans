@@ -29,4 +29,4 @@ ht-degree: 100%
 
 了解如何检查实例上是否安装了移动应用程序渠道，以及如何安装该渠道。
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340421?captions=chi_hans&quality=12&learn=on){transcript=true}

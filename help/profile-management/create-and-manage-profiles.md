@@ -34,4 +34,4 @@ ht-degree: 100%
 
 此视频还说明了 Adobe Campaign 符合《一般数据保护条例》(GDPR) 和《加利福尼亚州消费者隐私法案》(CCPA) 的规定。
 
->[!VIDEO](https://video.tv.adobe.com/v/334111?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452101?captions=chi_hans&quality=12&learn=on){transcript=true}

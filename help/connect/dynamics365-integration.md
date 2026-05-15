@@ -28,4 +28,4 @@ ht-degree: 100%
 
 此视频演示了如何将 Dynamics 365 与 Adobe Campaign 相集成。
 
->[!VIDEO](https://video.tv.adobe.com/v/23837?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327255?captions=chi_hans&quality=12&learn=on){transcript=true}

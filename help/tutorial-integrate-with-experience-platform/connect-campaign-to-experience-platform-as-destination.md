@@ -30,4 +30,4 @@ ht-degree: 100%
 
 了解如何使用 Amazon S3 连接类型将 Adobe Experience Platform 区段激活到目标。
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453131?captions=chi_hans&quality=12&learn=on){transcript=true}

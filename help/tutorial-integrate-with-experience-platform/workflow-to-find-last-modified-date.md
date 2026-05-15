@@ -30,7 +30,7 @@ ht-degree: 100%
 
 在“创建导出工作流”教程的第一部分中，了解如何创建工作流，以查找从 Experience Platform 区段创建的收件人列表的上次修改日期。
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450057?captions=chi_hans&quality=12&learn=on){transcript=true}
 
 ## 资产
 
