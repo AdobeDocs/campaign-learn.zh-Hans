@@ -6,11 +6,17 @@ feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11778
-last-substantial-update: 2023-01-30T00:00:00Z
+last-substantial-update: 2023-01-30T00:00:00.000Z
 exl-id: a4191cfb-991a-4cd5-97b5-c24c6c93566b
-source-git-commit: 2cf7b12ea62026186255b08c4035d0f4bdac103d
-workflow-type: ht
-source-wordcount: '1354'
+TQID: https://experienceleague.adobe.com/VVDE-a6X5ZTIGTAFCC-KflG7Do-Qhrd1PF1AN5v42dA
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+workflow-type: tm+mt
+source-wordcount: 1354
 ht-degree: 100%
 
 ---
@@ -40,7 +46,7 @@ Adobe Campaign 是一款灵活的工具，允许您以多种方式执行和编�
 
 您和客户一样，每天都会按部就班地工作和生活。 发送和编排营销活动时要对应这种节奏。 否则，您可能无法联系到客户，因为[发送的邮件中有 85% 不会被打开，98% 不会被点进](https://www.validity.com/resource-center/state-of-email-2021/)。
 
-例如，如果客户习惯在早上通过手机查看是否有合适的商品，那么可以考虑向他们发送促销短信。 如果客户习惯在晚上浏览下一个热门趋势，可以考虑发送一封包含促销代码（用于免除运费）的后续电子邮件。 在执行工作流和发送时，使用 [!DNL Campaign] 中的热图工具进行跟踪非常重要。 协调和推进跨多个品牌的通信可能非常具有挑战性。 [重视并了解进行电子邮件营销的节奏、节律和时机](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=zh-Hans)，这对消息和 Campaign 实例的整体稳定性和强度来说非常重要。
+例如，如果客户习惯在早上通过手机查看是否有合适的商品，那么可以考虑向他们发送促销短信。 如果客户习惯在晚上浏览下一个热门趋势，可以考虑发送一封包含促销代码（用于免除运费）的后续电子邮件。 在执行工作流和发送时，使用 [!DNL Campaign] 中的热图工具进行跟踪非常重要。 协调和推进跨多个品牌的通信可能非常具有挑战性。 [重视并了解进行电子邮件营销的节奏、节律和时机](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)，这对消息和 Campaign 实例的整体稳定性和强度来说非常重要。
 
 ## &#x200B;4. 在必要时使用个性化设计
 
