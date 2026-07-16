@@ -3,13 +3,13 @@ title: 技术教程 - 在 Adobe Campaign 中设置短信
 description: 了解如何针对 SMTP 提供商配置短信帐户，以及如何对配置执行分析和故障排除。
 feature: SMS
 role: Admin, Developer
-badgeV7V8: label="适用于v7和v8" type="Positive"
+badgeV7V8: label="适用于 v7 和 v8" type="Positive"
 thumbnail: 340957.jpg
 exl-id: c1eaabbf-c349-431d-9bbb-6ae987926d99
 source-git-commit: 41760d0ba303997abffa6cd79b6ae73d9ca54b3e
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 98%
+source-wordcount: '251'
+ht-degree: 100%
 
 ---
 

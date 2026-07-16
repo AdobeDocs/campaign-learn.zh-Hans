@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '440'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 # 投稿文章
@@ -19,7 +19,7 @@ ht-degree: 98%
 
 您的投稿方式取决于您的身份以及您希望投稿的更改类型：
 
-### 次要更改
+### 微小更改
 
 如果您出于善意而对文章做小幅度更新，请访问文章，并单击文章中的&#x200B;**编辑**&#x200B;链接以转到文章所对应的 GitHub 源。 然后，只需使用 GitHub UI 即可进行更新。 有关详细信息，请参阅通用的 [Adobe 文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
 

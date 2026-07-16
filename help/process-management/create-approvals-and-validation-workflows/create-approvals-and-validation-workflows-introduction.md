@@ -19,9 +19,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 267
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -43,6 +43,6 @@ Adobe Campaign 为营销人员提供了多个选项，用于审核和提供投�
 2. [为投放配置批准](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)：
 您还可以在投放级别设置批准。 如果投放批准步骤及审阅人与活动批准步骤及审阅人不同，那么投放设置会覆盖活动设置。
 3. [在工作流中创建批准流程](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)：
-批准活动允许在工作流中创建批准流程。 如此便可以在启动投放之前批准定位选择逻辑。 如有必要，您还可以在工作流的多个级别进行批准。
+批准活动允许在工作流中创建批准流程。如此便可以在启动投放之前批准定位选择逻辑。 如有必要，您还可以在工作流的多个级别进行批准。
 
 有关更多信息，请参阅[文档](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=zh-Hans)。
