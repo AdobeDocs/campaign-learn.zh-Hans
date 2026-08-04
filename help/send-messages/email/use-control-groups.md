@@ -28,4 +28,4 @@ ht-degree: 100%
 
 了解对照组的概念以及如何将对照组用于投放。
 
->[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446928?captions=chi_hans&quality=12&learn=on){transcript=true}
