@@ -6,28 +6,39 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-TQID: https://experienceleague.adobe.com/gN3c6c8m-9p6c1BmdHju2BJC5KXX75UyJk97hPcqaZc
+TQID: 'https://experienceleague.adobe.com/gN3c6c8m-9p6c1BmdHju2BJC5KXX75UyJk97hPcqaZc'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: addf009e-030a-4310-8534-776a3e62ed48
+    internal-label: Customer lifecycle
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Personalization
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 1474
+source-wordcount: '1474'
 ht-degree: 0%
-
 ---
-
 # 电子邮件ROI和实现订阅者重新参与的最佳实践
 
 电子邮件营销是培养品牌忠诚度和增加销售额的重要工具。 但是，由于人们每天都会收到大量电子邮件，更不用说他们使用的其他数字内容了，因此您的内容在人群中脱颖而出非常重要。 而且它必须满足受众的特殊需求。
@@ -64,27 +75,27 @@ ht-degree: 0%
 * ISP会跟踪您从IP地址发送的平均邮件，因此请尽量分配卷，以避免创建红色标记和向垃圾邮件发送
 * 提前设置内容日历，并为内容作者增加发送量做好准备
 * 考虑如何安排电子邮件发送计划，避免发送量出现巨大峰值。 考虑一些战术，例如：
-   * 不是同时发送爆炸，而是几天内发送
-   * 针对一天中用户收到电子邮件过载的时间（如上午8:00-10:00）进行战略规划
-   * 如果你不能把它分散在几天内，就试几个小时
+  * 不是同时发送爆炸，而是几天内发送
+  * 针对一天中用户收到电子邮件过载的时间（如上午8:00-10:00）进行战略规划
+  * 如果你不能把它分散在几天内，就试几个小时
 
 ### &#x200B;2. 基础架构
 
 * 通过使用您自己的电子邮件进行测试，确保正确设置了电子邮件身份验证
 * 熟悉弹回处理并检查整个ISP的性能
-   * 特定ISP是否存在任何潜在问题或块？
-   * 在开始大量发送之前了解您的问题，以避免意外的不愉快和营销活动效果不佳
+  * 特定ISP是否存在任何潜在问题或块？
+  * 在开始大量发送之前了解您的问题，以避免意外的不愉快和营销活动效果不佳
 
 ### &#x200B;3. 数据
 
 * 识别所有客户获取技术，特别是您的注册流程和GDPR。
 * 在询问订阅者的电子邮件地址时，对其尽可能透明：
-   * 您将发送哪些内容（新闻稿、促销活动、活动）
-   * 您将发送多少电子邮件（每天、每周、每月）
+  * 您将发送哪些内容（新闻稿、促销活动、活动）
+  * 您将发送多少电子邮件（每天、每周、每月）
 
 * 向新订阅者发送欢迎电子邮件：
-   * 欢迎电子邮件有助于确保订阅者不会因新内容而失去意识，不会取消订阅或标记为垃圾邮件。
-   * 欢迎电子邮件也是绩效的一个良好指标。 如果他们未成功交付或交互，您便知道这是性能不佳或数据收集不佳的迹象。
+  * 欢迎电子邮件有助于确保订阅者不会因新内容而失去意识，不会取消订阅或标记为垃圾邮件。
+  * 欢迎电子邮件也是绩效的一个良好指标。 如果他们未成功交付或交互，您便知道这是性能不佳或数据收集不佳的迹象。
 
 ### &#x200B;4. 电子邮件管理
 
@@ -111,9 +122,9 @@ ht-degree: 0%
 
 * 您的客户在客户生命周期中的什么位置？
 * 他们对您的电子邮件的参与度如何？
-   * 放弃购物篮电子邮件与新闻稿
-   * 重新激活电子邮件与销售发布
-   * 购物篮放弃电子邮件与新产品发布
+  * 放弃购物篮电子邮件与新闻稿
+  * 重新激活电子邮件与销售发布
+  * 购物篮放弃电子邮件与新产品发布
 * 您的客户从您的品牌接收内容的能力如何？
 * 您的客户有哪些季节性偏好？
 
@@ -153,4 +164,4 @@ ht-degree: 0%
 
 * **测试和学习** — 良好的测试计划对于确保您的努力取得预期效果很重要。 了解哪些组件有效，哪些组件无效，并相应地进行迭代。
 
-在[视角](https://experienceleague.adobe.com/zh-hans/perspectives)中心了解更多有关战略和思想领导力的信息。
+在[视角](https://experienceleague.adobe.com/en/perspectives)中心了解更多有关战略和思想领导力的信息。

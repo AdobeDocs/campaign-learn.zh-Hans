@@ -8,27 +8,44 @@ level: Beginner
 jira: KT-11778
 last-substantial-update: 2023-01-30T00:00:00.000Z
 exl-id: a4191cfb-991a-4cd5-97b5-c24c6c93566b
-TQID: https://experienceleague.adobe.com/VVDE-a6X5ZTIGTAFCC-KflG7Do-Qhrd1PF1AN5v42dA
+TQID: 'https://experienceleague.adobe.com/VVDE-a6X5ZTIGTAFCC-KflG7Do-Qhrd1PF1AN5v42dA'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 13af5358-448e-5a4a-850b-0db592bb0f8f
+    internal-label: Personalization
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: afa4204e-6d08-4e29-bc35-26aafb656d48
+    internal-label: Profiles and audiences
+subfeature_v2:
+  - id: d4adbfcb-4ec0-5691-b003-d940294aa34c
+    internal-label: Subscriptions
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Administration
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 1354
+source-wordcount: '1354'
 ht-degree: 100%
-
 ---
-
 # 营销人员借助 [!DNL Adobe Campaign] 取得成功的十大最佳实践
 
 Christian Klimczyk 称自己为“Adobe 迷”，有着七年的使用 [!DNL Adobe Experience Cloud] 的专业经验，专注于 [!DNL Adobe Campaign]。 作为一家大型 CPG 公司的 Adobe 平台负责人，Christian 及其团队使用 [!DNL Campaign] 与所有消费者进行通信和交互。 他们借助直邮、电子邮件和 SMS/MMS 等多种方式进行无缝协作，应对高标准的监管要求并开展多渠道消费者营销活动。
@@ -54,7 +71,7 @@ Adobe Campaign 是一款灵活的工具，允许您以多种方式执行和编�
 
 您和客户一样，每天都会按部就班地工作和生活。 发送和编排营销活动时要对应这种节奏。 否则，您可能无法联系到客户，因为[发送的邮件中有 85% 不会被打开，98% 不会被点进](https://www.validity.com/resource-center/state-of-email-2021/)。
 
-例如，如果客户习惯在早上通过手机查看是否有合适的商品，那么可以考虑向他们发送促销短信。 如果客户习惯在晚上浏览下一个热门趋势，可以考虑发送一封包含促销代码（用于免除运费）的后续电子邮件。 在执行工作流和发送时，使用 [!DNL Campaign] 中的热图工具进行跟踪非常重要。 协调和推进跨多个品牌的通信可能非常具有挑战性。 [重视并了解进行电子邮件营销的节奏、节律和时机](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=zh-Hans)，这对消息和 Campaign 实例的整体稳定性和强度来说非常重要。
+例如，如果客户习惯在早上通过手机查看是否有合适的商品，那么可以考虑向他们发送促销短信。 如果客户习惯在晚上浏览下一个热门趋势，可以考虑发送一封包含促销代码（用于免除运费）的后续电子邮件。 在执行工作流和发送时，使用 [!DNL Campaign] 中的热图工具进行跟踪非常重要。 协调和推进跨多个品牌的通信可能非常具有挑战性。 [重视并了解进行电子邮件营销的节奏、节律和时机](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)，这对消息和 Campaign 实例的整体稳定性和强度来说非常重要。
 
 ## &#x200B;4. 在必要时使用个性化设计
 
