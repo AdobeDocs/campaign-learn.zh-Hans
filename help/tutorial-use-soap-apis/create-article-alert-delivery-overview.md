@@ -42,5 +42,5 @@ ht-degree: 71%
 
 *使用不同的定位和过滤维度查询数据，以及如何使用交叉联接输出。*
 
-**步骤2：**[向订阅的收件人发送投放](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
+**步骤2：**&#x200B;[向订阅的收件人发送投放](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)
 *了解如何将数据联接到两个区段，创建文章提醒电子邮件，并根据从外部API收到的数据对其进行个性化设置。*
