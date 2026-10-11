@@ -6,13 +6,11 @@ source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
-
 ---
-
 
 # Android™ 推送通知入门 {#get-started-with-push-notifications-for-android}
 
 + [Android 推送通知入门 - 简介](/help/tutorial-get-started-with-push-notifications-for-android/introduction.md)
-+ [步骤 1：扩展应用程序订阅模式以个性化推送通知](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
++ [步骤 1：扩展应用程序订阅架构以个性化推送通知](/help/tutorial-get-started-with-push-notifications-for-android/extend-the-app-subscription-schema.md)
 + [步骤 2：在 Campaign 中配置 Android™ 服务并创建 Android™ 移动应用程序](/help/tutorial-get-started-with-push-notifications-for-android/configure-an-android-service-in-campaign.md)
 + [步骤3：配置和发送推送通知](/help/tutorial-get-started-with-push-notifications-for-android/configure-and-send-push-notifications.md)
