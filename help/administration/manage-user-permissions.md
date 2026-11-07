@@ -46,4 +46,4 @@ ht-degree: 100%
 * 已命名权限
 * 添加文件夹级别的权限
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505218/?captions=chi_hans&learn=on)

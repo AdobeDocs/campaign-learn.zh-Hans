@@ -70,7 +70,7 @@ ht-degree: 13%
    * 创建操作员组并分配命名权限
    * 将产品配置文件映射⇄操作员组
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505218/?captions=chi_hans&learn=on)
 
 请参阅[产品文档](https://experienceleague.adobe.com/zh-hans/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"}以了解详细的书面分步指南。
 
